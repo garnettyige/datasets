@@ -1,0 +1,2884 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tree>
+ <declarations>
+  <attributeDecl name="userName" type="String" />
+  <attributeDecl name="userId" type="String" />
+  <attributeDecl name="statusId" type="String" />
+  <attributeDecl name="image" type="String" />
+  <attributeDecl name="statusText" type="String" />
+  <attributeDecl name="createAt" type="String" />
+ </declarations>
+ <branch>
+  <attribute name="userName" value="新浪财经" />
+  <attribute name="userId" value="1638782947" />
+  <attribute name="statusId" value="3801211284822217" />
+  <attribute name="image" value="http://service.mix.sina.com.cn/pic/p_34/s_105_120/H_6XAT4iQhRMju6tNz7DSLiHEYiS8xoR2BLmsnUQ1KzjE2xU2cCCJmnT8tUUVeZ5PQNYQzFildRPYxKcdzIqP11L9BgBtMERIrtNxqATFrtaJeJJ1nl89J3WAAqbiiNtnJATb5mqbA0IHwjU75AihJMEmHefHm2hUKWaFltZXkTsmjvL.jpg" />
+  <attribute name="statusText" value="【多地银行储户存款频丢失 专家:银行脱不了干系】近日，在没有短信提醒、没有电话告知的情况下，一些储户银行账户里的存款不翼而飞，多则上亿元，少则百万元。专家认为，银行脱不了干系。报道称，最常见的盗取方式就是内外合作，而且存款丢得“容易”，被找回可能性很小。O网页链接" />
+  <attribute name="createAt" value="2015-01-20 22:07" />
+  <branch>
+   <attribute name="userName" value="和为贵2002" />
+   <attribute name="userId" value="3504934412" />
+   <attribute name="statusId" value="3801370748883146" />
+   <attribute name="image" value="http://tp1.sinaimg.cn/3504934412/50/0/0" />
+   <attribute name="statusText" value="//@袁裕来律师:恐怖。//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 08:41" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="JackyWang1010" />
+   <attribute name="userId" value="2056881480" />
+   <attribute name="statusId" value="3801341690488253" />
+   <attribute name="image" value="http://tp1.sinaimg.cn/2056881480/50/5692955448/1" />
+   <attribute name="statusText" value="哪有法律//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 06:45" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="沥泉枪挑" />
+   <attribute name="userId" value="3232931700" />
+   <attribute name="statusId" value="3801355213194140" />
+   <attribute name="image" value="http://tp1.sinaimg.cn/3232931700/50/40045169365/1" />
+   <attribute name="statusText" value="深具中国特色" />
+   <attribute name="createAt" value="2015-01-21 07:39" />
+   <branch>
+    <attribute name="userName" value="rain--liu" />
+    <attribute name="userId" value="2001769245" />
+    <attribute name="statusId" value="3801382320414088" />
+    <attribute name="image" value="http://tp2.sinaimg.cn/2001769245/50/5714029259/0" />
+    <attribute name="statusText" value="陆续有来//@沥泉枪挑:深具中国特色" />
+    <attribute name="createAt" value="2015-01-21 09:27" />
+   </branch>
+  </branch>
+  <branch>
+   <attribute name="userName" value="IMzhengfei" />
+   <attribute name="userId" value="2474859467" />
+   <attribute name="statusId" value="3801375982560035" />
+   <attribute name="image" value="http://tp4.sinaimg.cn/2474859467/50/5656002922/1" />
+   <attribute name="statusText" value="有了支付宝，还放银行干嘛去年的//@陈光武律师:【银行不是脱不了干系，而是必还无疑】近期，储户在银行丢钱报道屡见媒体，今日央视又专题报道。银行说业务员个人行为，与银行无关；储户说丢的容易，追回来难；警察说，刑事案件，等破案追脏。专家说银行脱不了干系...依我看丝毫不用担心。只要钱存…" />
+   <attribute name="createAt" value="2015-01-21 09:02" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="二十一世纪之海" />
+   <attribute name="userId" value="1872002733" />
+   <attribute name="statusId" value="3801351836079324" />
+   <attribute name="image" value="http://tp2.sinaimg.cn/1872002733/50/5714996423/1" />
+   <attribute name="statusText" value="//@荣剑2004: 银行内部人把储户的钱偷了，银行说它没责任，这是什么银行?//@袁裕来律师:恐怖。//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 07:26" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="吃土豆长大的" />
+   <attribute name="userId" value="1746830023" />
+   <attribute name="statusId" value="3801575782447240" />
+   <attribute name="image" value="http://tp4.sinaimg.cn/1746830023/50/1280999477/1" />
+   <attribute name="statusText" value="//@荣剑2004: 银行内部人把储户的钱偷了，银行说它没责任，这是什么银行?//@袁裕来律师:恐怖。//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 22:15" />
+   <branch>
+    <attribute name="userName" value="程中柳" />
+    <attribute name="userId" value="1065242271" />
+    <attribute name="statusId" value="3801576629932452" />
+    <attribute name="image" value="http://tp4.sinaimg.cn/1065242271/50/40055862574/1" />
+    <attribute name="statusText" value="党中央能有周永康，公安系统能有王立军，银行为什么不能有贼？//@吃土豆长大的: //@荣剑2004: 银行内部人把储户的钱偷了，银行说它没责任，这是什么银行?//@袁裕来律师:恐怖。//@任志强:难道法律管不了银行？" />
+    <attribute name="createAt" value="2015-01-21 22:19" />
+   </branch>
+  </branch>
+  <branch>
+   <attribute name="userName" value="沈小鸭" />
+   <attribute name="userId" value="1250150164" />
+   <attribute name="statusId" value="3801338586235030" />
+   <attribute name="image" value="http://tp1.sinaimg.cn/1250150164/50/5701728638/1" />
+   <attribute name="statusText" value="看到少则百万，我也就放心了，咱卡里也就几百块钱" />
+   <attribute name="createAt" value="2015-01-21 06:33" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="河南汽配网" />
+   <attribute name="userId" value="2182922860" />
+   <attribute name="statusId" value="3801358920650856" />
+   <attribute name="image" value="http://tp1.sinaimg.cn/2182922860/50/22874369861/1" />
+   <attribute name="statusText" value="转发微博" />
+   <attribute name="createAt" value="2015-01-21 07:54" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="刺客大老爷" />
+   <attribute name="userId" value="3001816995" />
+   <attribute name="statusId" value="3801431180084300" />
+   <attribute name="image" value="http://tp4.sinaimg.cn/3001816995/50/5700060161/1" />
+   <attribute name="statusText" value="把钱全部取出来放回米缸去！ //@袁裕来律师:恐怖。//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 12:41" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="慧琳的修持围脖" />
+   <attribute name="userId" value="2009793913" />
+   <attribute name="statusId" value="3801434736470745" />
+   <attribute name="image" value="http://tp2.sinaimg.cn/2009793913/50/0/0" />
+   <attribute name="statusText" value="//@袁裕来律师:恐怖。//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 12:55" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="携手19" />
+   <attribute name="userId" value="2113697565" />
+   <attribute name="statusId" value="3802301757771200" />
+   <attribute name="image" value="http://tp2.sinaimg.cn/2113697565/50/0/1" />
+   <attribute name="statusText" value="//@任志强: 难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-23 22:20" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="aizhizhuo" />
+   <attribute name="userId" value="2769371743" />
+   <attribute name="statusId" value="3801397096914565" />
+   <attribute name="image" value="http://tp4.sinaimg.cn/2769371743/50/5636182474/1" />
+   <attribute name="statusText" value="转发微博" />
+   <attribute name="createAt" value="2015-01-21 10:25" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="mty-马添野" />
+   <attribute name="userId" value="2661779147" />
+   <attribute name="statusId" value="3801403862433984" />
+   <attribute name="image" value="http://tp4.sinaimg.cn/2661779147/50/5626684822/1" />
+   <attribute name="statusText" value="钱存银行都不保险了，还好俺穷没钱存没钱丢~" />
+   <attribute name="createAt" value="2015-01-21 10:52" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="囧囧游尘" />
+   <attribute name="userId" value="2464328260" />
+   <attribute name="statusId" value="3801585182434386" />
+   <attribute name="image" value="http://tp1.sinaimg.cn/2464328260/50/5651238845/1" />
+   <attribute name="statusText" value="//@袁裕来律师:恐怖。//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 22:53" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="food1516" />
+   <attribute name="userId" value="3891865258" />
+   <attribute name="statusId" value="3801581717896046" />
+   <attribute name="image" value="http://tp3.sinaimg.cn/3891865258/50/40038450201/1" />
+   <attribute name="statusText" value="@Qiaofeng1 //@荣剑2004:银行内部人把储户的钱偷了，银行说它没责任，这是什么银行?//@袁裕来律师:恐怖。//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 22:39" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="新人12456" />
+   <attribute name="userId" value="2253563573" />
+   <attribute name="statusId" value="3801780879745997" />
+   <attribute name="image" value="http://tp2.sinaimg.cn/2253563573/50/0/1" />
+   <attribute name="statusText" value="怎么也盗不了我的，。" />
+   <attribute name="createAt" value="2015-01-22 11:50" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="离苦得乐明心见性" />
+   <attribute name="userId" value="1659959250" />
+   <attribute name="statusId" value="3801393007544596" />
+   <attribute name="image" value="http://tp3.sinaimg.cn/1659959250/50/5712019777/1" />
+   <attribute name="statusText" value="银行内贼应该不少。法律也需要人来执法，恶意欠薪作为刑事犯罪都被警方当做民事经济纠纷处理。棺享主义社会，谁会主动为百姓服务 //@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 10:09" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="史万岁时空隧道" />
+   <attribute name="userId" value="1291271124" />
+   <attribute name="statusId" value="3801342936040604" />
+   <attribute name="image" value="http://tp1.sinaimg.cn/1291271124/50/5603658965/1" />
+   <attribute name="statusText" value="银行的信誉要是没了，那后果太严重了。 //@工人老陈:危害在于银行不可信了，我们的钱存哪？" />
+   <attribute name="createAt" value="2015-01-21 06:50" />
+   <branch>
+    <attribute name="userName" value="金太乙" />
+    <attribute name="userId" value="1673997802" />
+    <attribute name="statusId" value="3801396589207461" />
+    <attribute name="image" value="http://tp3.sinaimg.cn/1673997802/50/5712782817/0" />
+    <attribute name="statusText" value="//@史万岁时空隧道: 银行的信誉要是没了，那后果太严重了。 //@工人老陈:危害在于银行不可信了，我们的钱存哪？" />
+    <attribute name="createAt" value="2015-01-21 10:23" />
+   </branch>
+  </branch>
+  <branch>
+   <attribute name="userName" value="用户3820339141" />
+   <attribute name="userId" value="3820339141" />
+   <attribute name="statusId" value="3801559877840737" />
+   <attribute name="image" value="http://tp2.sinaimg.cn/3820339141/50/0/1" />
+   <attribute name="statusText" value="//@袁裕来律师:恐怖。//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 21:12" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="LeiLeiGAN" />
+   <attribute name="userId" value="2608484465" />
+   <attribute name="statusId" value="3801378059502694" />
+   <attribute name="image" value="http://tp2.sinaimg.cn/2608484465/50/40017080359/0" />
+   <attribute name="statusText" value="这个新闻几天前就已经看到了，当时就觉得我的想法是对的。必须要买不动产和一些理财保险类型的有保障的产品，所以说我最最喜欢的不动产行业不管未来如何我还是看好它，希望我能和它一起走下去！" />
+   <attribute name="createAt" value="2015-01-21 09:10" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="Clarence-九九" />
+   <attribute name="userId" value="2750066951" />
+   <attribute name="statusId" value="3801409679779756" />
+   <attribute name="image" value="http://tp4.sinaimg.cn/2750066951/50/5634606411/1" />
+   <attribute name="statusText" value="/【银行不是脱不了干系，而是必还无疑】近期，储户在银行丢钱报道屡见媒体，今日央视又专题报道。银行说业务员个人行为，与银行无关；储户说丢的容易，追回来难；警察说，刑事案件，等破案追脏。专家说银行脱不了干系...依我看丝毫不用担心。只要钱存到了银行，或在柜台交到业务员手中，银行必还！" />
+   <attribute name="createAt" value="2015-01-21 11:15" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="Fred-黄" />
+   <attribute name="userId" value="1961604657" />
+   <attribute name="statusId" value="3801348997089330" />
+   <attribute name="image" value="http://tp2.sinaimg.cn/1961604657/50/0/1" />
+   <attribute name="statusText" value="//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 07:14" />
+   <branch>
+    <attribute name="userName" value="ixuebo" />
+    <attribute name="userId" value="1936956411" />
+    <attribute name="statusId" value="3801350951747695" />
+    <attribute name="image" value="http://tp4.sinaimg.cn/1936956411/50/5637221705/1" />
+    <attribute name="statusText" value="银行这都赖账啊！//@Fred-黄://@任志强:难道法律管不了银行？" />
+    <attribute name="createAt" value="2015-01-21 07:22" />
+    <branch>
+     <attribute name="userName" value="月亮猜" />
+     <attribute name="userId" value="1980087744" />
+     <attribute name="statusId" value="3801353895540005" />
+     <attribute name="image" value="http://tp1.sinaimg.cn/1980087744/50/5635653900/1" />
+     <attribute name="statusText" value="私人之间，委托保管钱，丢失了也要承担责任，只要你拿出凿实证据。银行是专门干这一行的，丢什了储户的钱，岂能推卸责任？要知道百姓的钱都是长年累月，省吃兼用下来的，怎么能说没就没了呢？银行是国家的，当然也代表国家的信誉！ //@ixuebo:银行这都赖账啊！ //@Fred-黄:" />
+     <attribute name="createAt" value="2015-01-21 07:34" />
+     <branch>
+      <attribute name="userName" value="月亮猜" />
+      <attribute name="userId" value="1980087744" />
+      <attribute name="statusId" value="3801354738772294" />
+      <attribute name="image" value="http://tp1.sinaimg.cn/1980087744/50/5635653900/1" />
+      <attribute name="statusText" value="就算储户不小心丢失了信息，银行也有责任帮储户守住最后的底线。" />
+      <attribute name="createAt" value="2015-01-21 07:37" />
+     </branch>
+    </branch>
+    <branch>
+     <attribute name="userName" value="谭力涛" />
+     <attribute name="userId" value="1896935583" />
+     <attribute name="statusId" value="3801371167935347" />
+     <attribute name="image" value="http://tp4.sinaimg.cn/1896935583/50/40010845076/1" />
+     <attribute name="statusText" value="//@ixuebo: 银行这都赖账啊！//@Fred-黄://@任志强:难道法律管不了银行？" />
+     <attribute name="createAt" value="2015-01-21 08:42" />
+    </branch>
+   </branch>
+  </branch>
+  <branch>
+   <attribute name="userName" value="金色的旅程" />
+   <attribute name="userId" value="1294028652" />
+   <attribute name="statusId" value="3801830414781957" />
+   <attribute name="image" value="http://tp1.sinaimg.cn/1294028652/50/5716966967/0" />
+   <attribute name="statusText" value="赶紧买房，做个房奴安全一些，" />
+   <attribute name="createAt" value="2015-01-22 15:07" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="胖胖美美200004" />
+   <attribute name="userId" value="5295157280" />
+   <attribute name="statusId" value="3801933229986758" />
+   <attribute name="image" value="http://tp1.sinaimg.cn/5295157280/50/5705906145/0" />
+   <attribute name="statusText" value="//@袁裕来律师:恐怖。//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-22 21:56" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="QQ唐陛下" />
+   <attribute name="userId" value="3228924377" />
+   <attribute name="statusId" value="3801406290708055" />
+   <attribute name="image" value="http://tp2.sinaimg.cn/3228924377/50/5709595174/1" />
+   <attribute name="statusText" value="没有收款人么？//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 11:02" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="polyyezhu" />
+   <attribute name="userId" value="2651287337" />
+   <attribute name="statusId" value="3801331690851449" />
+   <attribute name="image" value="http://tp2.sinaimg.cn/2651287337/50/0/1" />
+   <attribute name="statusText" value="//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 06:06" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="扁头风3317264464" />
+   <attribute name="userId" value="3317264464" />
+   <attribute name="statusId" value="3801349571658881" />
+   <attribute name="image" value="http://tp1.sinaimg.cn/3317264464/50/5687052565/1" />
+   <attribute name="statusText" value="转发微博" />
+   <attribute name="createAt" value="2015-01-21 07:17" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="慕溪精灵" />
+   <attribute name="userId" value="2020086901" />
+   <attribute name="statusId" value="3801360362924468" />
+   <attribute name="image" value="http://tp2.sinaimg.cn/2020086901/50/5662758699/1" />
+   <attribute name="statusText" value="法律管你有没有多取钱//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 07:59" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="不懂悲伤的疯大喵" />
+   <attribute name="userId" value="2793153553" />
+   <attribute name="statusId" value="3801590878014446" />
+   <attribute name="image" value="http://tp2.sinaimg.cn/2793153553/50/5715652016/0" />
+   <attribute name="statusText" value="转发微博" />
+   <attribute name="createAt" value="2015-01-21 23:15" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="BiRuo" />
+   <attribute name="userId" value="1677922570" />
+   <attribute name="statusId" value="3801356601338211" />
+   <attribute name="image" value="http://tp3.sinaimg.cn/1677922570/50/5683414098/0" />
+   <attribute name="statusText" value="转发微博" />
+   <attribute name="createAt" value="2015-01-21 07:45" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="从揃以後" />
+   <attribute name="userId" value="2811057422" />
+   <attribute name="statusId" value="3801379040230943" />
+   <attribute name="image" value="http://tp3.sinaimg.cn/2811057422/50/5684566610/1" />
+   <attribute name="statusText" value="转发微博" />
+   <attribute name="createAt" value="2015-01-21 09:14" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="魅力盐都" />
+   <attribute name="userId" value="3425117594" />
+   <attribute name="statusId" value="3802142689344051" />
+   <attribute name="image" value="http://tp3.sinaimg.cn/3425117594/50/5715429726/1" />
+   <attribute name="statusText" value="法律管不到银行，悲哀//@柏铭007:任总如何看？好像比你们房地产还牛叉啊！//@任志强: 难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-23 11:48" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="野心优雅来了" />
+   <attribute name="userId" value="3833961767" />
+   <attribute name="statusId" value="3801439438751904" />
+   <attribute name="image" value="http://tp4.sinaimg.cn/3833961767/50/5676989149/1" />
+   <attribute name="statusText" value="//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 13:14" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="鹤发童颜一老翁" />
+   <attribute name="userId" value="5394248433" />
+   <attribute name="statusId" value="3801620632968114" />
+   <attribute name="image" value="http://tp2.sinaimg.cn/5394248433/50/5716545884/1" />
+   <attribute name="statusText" value="//@一句快评:银行，果然是法外之地！" />
+   <attribute name="createAt" value="2015-01-22 01:14" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="M王小鬼" />
+   <attribute name="userId" value="1758373007" />
+   <attribute name="statusId" value="3801359549632950" />
+   <attribute name="image" value="http://tp4.sinaimg.cn/1758373007/50/40012336679/0" />
+   <attribute name="statusText" value="卧槽，被找回可能性不大，真扯。咋丢的咋给弄回来。还好我没存款。" />
+   <attribute name="createAt" value="2015-01-21 07:56" />
+   <branch>
+    <attribute name="userName" value="寒0雨" />
+    <attribute name="userId" value="2990473463" />
+    <attribute name="statusId" value="3801360695120072" />
+    <attribute name="image" value="http://tp4.sinaimg.cn/2990473463/50/22860977907/1" />
+    <attribute name="statusText" value="这是让大家不再相信的节奏吗？" />
+    <attribute name="createAt" value="2015-01-21 08:01" />
+   </branch>
+  </branch>
+  <branch>
+   <attribute name="userName" value="请尊称王婷婷妞儿" />
+   <attribute name="userId" value="5463169433" />
+   <attribute name="statusId" value="3801435269692212" />
+   <attribute name="image" value="http://tp2.sinaimg.cn/5463169433/50/5716729652/0" />
+   <attribute name="statusText" value="以前我在柜台取500，那女的夹了张假币在里面，当时我觉得她很不自然，但也没多想，后来用的时候才知道有张假币。//@袁裕来律师:恐怖。//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 12:57" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="marshalpan" />
+   <attribute name="userId" value="1768513893" />
+   <attribute name="statusId" value="3801349093335456" />
+   <attribute name="image" value="http://tp2.sinaimg.cn/1768513893/50/5615818586/1" />
+   <attribute name="statusText" value="任总，是法律不管银行，管了会造成国有资产流失……//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 07:15" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="晓丽_95496" />
+   <attribute name="userId" value="5021244667" />
+   <attribute name="statusId" value="3801358861653098" />
+   <attribute name="image" value="http://tp4.sinaimg.cn/5021244667/50/0/0" />
+   <attribute name="statusText" value="//@袁裕来律师:恐怖。//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 07:54" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="Eric飞舞的围脖" />
+   <attribute name="userId" value="2210325061" />
+   <attribute name="statusId" value="3801340448809130" />
+   <attribute name="image" value="http://tp2.sinaimg.cn/2210325061/50/5612172259/1" />
+   <attribute name="statusText" value="//@袁裕来律师:恐怖。//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 06:40" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="李小玲_乳格尔燕" />
+   <attribute name="userId" value="2346642691" />
+   <attribute name="statusId" value="3801363802312027" />
+   <attribute name="image" value="http://tp4.sinaimg.cn/2346642691/50/5708953999/0" />
+   <attribute name="statusText" value="//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 08:13" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="陈衍水" />
+   <attribute name="userId" value="1269280013" />
+   <attribute name="statusId" value="3801444010854655" />
+   <attribute name="image" value="http://tp2.sinaimg.cn/1269280013/50/5669675853/1" />
+   <attribute name="statusText" value="//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 13:32" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="含羞草野百合9733355" />
+   <attribute name="userId" value="5323624525" />
+   <attribute name="statusId" value="3802595615098684" />
+   <attribute name="image" value="http://tp2.sinaimg.cn/5323624525/50/0/0" />
+   <attribute name="statusText" value="青春是有限的，智慧是无限的，趁短短的青春，去学无限的智慧吧。——高尔基 潮男鞋皮鞋可以看看O网页链接" />
+   <attribute name="createAt" value="2015-01-24 17:48" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="伟博_007" />
+   <attribute name="userId" value="1593270211" />
+   <attribute name="statusId" value="3801429703729716" />
+   <attribute name="image" value="http://tp4.sinaimg.cn/1593270211/50/5599138336/1" />
+   <attribute name="statusText" value="转发微博" />
+   <attribute name="createAt" value="2015-01-21 12:35" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="智羽双全520" />
+   <attribute name="userId" value="2287532097" />
+   <attribute name="statusId" value="3801327983357446" />
+   <attribute name="image" value="http://tp2.sinaimg.cn/2287532097/50/22834453182/1" />
+   <attribute name="statusText" value="//@陈光武律师: //@袁裕来律师: 恐怖。//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 05:51" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="京鲁潘律师" />
+   <attribute name="userId" value="1886931271" />
+   <attribute name="statusId" value="3801366637858099" />
+   <attribute name="image" value="http://tp4.sinaimg.cn/1886931271/50/5606271955/1" />
+   <attribute name="statusText" value="回复@我爱小肌肉:但也有没判赔的案例，为保护银行利益，这就是为么银行一直霸道不讲理 //@我爱小肌肉:银行是保管我存款的地儿，丢了当然是银行全赔，这还有啥异议吗？//@京鲁潘律师:在银行丢多少，就让银行赔多少，看银行还敢粗心大意？还敢不堵漏洞？//@任志强: 难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 08:24" />
+   <branch>
+    <attribute name="userName" value="我爱小肌肉" />
+    <attribute name="userId" value="1458930447" />
+    <attribute name="statusId" value="3801368131757069" />
+    <attribute name="image" value="http://tp4.sinaimg.cn/1458930447/50/5648611392/1" />
+    <attribute name="statusText" value="一个坏的判决就会引导坏的社会风气。。。//@京鲁潘律师: 回复@我爱小肌肉:但也有没判赔的案例，为保护银行利益，这就是为么银行一直霸道不讲理 //@我爱小肌肉:银行是保管我存款的地儿，丢了当然是银行全赔，这还有啥异议吗？//@京鲁潘律师:在银行丢多少，就让银行赔多少，看银行还敢粗心大意？" />
+    <attribute name="createAt" value="2015-01-21 08:30" />
+    <branch>
+     <attribute name="userName" value="liu-achao" />
+     <attribute name="userId" value="3175934394" />
+     <attribute name="statusId" value="3801372241595473" />
+     <attribute name="image" value="http://tp3.sinaimg.cn/3175934394/50/5696728095/1" />
+     <attribute name="statusText" value="fu*k" />
+     <attribute name="createAt" value="2015-01-21 08:47" />
+    </branch>
+   </branch>
+  </branch>
+  <branch>
+   <attribute name="userName" value="生于胡闹的辉煌" />
+   <attribute name="userId" value="2461481844" />
+   <attribute name="statusId" value="3801367934345120" />
+   <attribute name="image" value="http://tp1.sinaimg.cn/2461481844/50/5676695287/1" />
+   <attribute name="statusText" value="转发微博" />
+   <attribute name="createAt" value="2015-01-21 08:30" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="XP20130323" />
+   <attribute name="userId" value="5413194041" />
+   <attribute name="statusId" value="3801384980119848" />
+   <attribute name="image" value="http://tp2.sinaimg.cn/5413194041/50/5714655103/1" />
+   <attribute name="statusText" value="//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 09:37" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="邹彦杰在行动" />
+   <attribute name="userId" value="2670479703" />
+   <attribute name="statusId" value="3801378957005862" />
+   <attribute name="image" value="http://tp4.sinaimg.cn/2670479703/50/5635238923/1" />
+   <attribute name="statusText" value="//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 09:13" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="Investor李夏维" />
+   <attribute name="userId" value="2707977030" />
+   <attribute name="statusId" value="3801363052438590" />
+   <attribute name="image" value="http://tp3.sinaimg.cn/2707977030/50/5702015431/1" />
+   <attribute name="statusText" value="有钱还是存支付宝吧。起码人家承诺如果丢失会全部赔偿。" />
+   <attribute name="createAt" value="2015-01-21 08:10" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="X-pavelly-X" />
+   <attribute name="userId" value="2194939910" />
+   <attribute name="statusId" value="3801362724455622" />
+   <attribute name="image" value="http://tp3.sinaimg.cn/2194939910/50/5709713292/1" />
+   <attribute name="statusText" value="可怕" />
+   <attribute name="createAt" value="2015-01-21 08:09" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="施予舍得" />
+   <attribute name="userId" value="2788457727" />
+   <attribute name="statusId" value="3801363236837745" />
+   <attribute name="image" value="http://tp4.sinaimg.cn/2788457727/50/0/1" />
+   <attribute name="statusText" value="/这是鼓励消费，鼓励投资啊！" />
+   <attribute name="createAt" value="2015-01-21 08:11" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="幸运儿的小秘密" />
+   <attribute name="userId" value="2042471051" />
+   <attribute name="statusId" value="3801352122106414" />
+   <attribute name="image" value="http://tp4.sinaimg.cn/2042471051/50/5711968337/0" />
+   <attribute name="statusText" value="//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 07:27" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="_枫树岭_" />
+   <attribute name="userId" value="1738062893" />
+   <attribute name="statusId" value="3801547756132268" />
+   <attribute name="image" value="http://tp2.sinaimg.cn/1738062893/50/5614817977/1" />
+   <attribute name="statusText" value="多地银行储户存款频丢失 专家:银行脱不了干系" />
+   <attribute name="createAt" value="2015-01-21 20:24" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="紫苑寺有子_爱丽丝" />
+   <attribute name="userId" value="1969632037" />
+   <attribute name="statusId" value="3801475702069864" />
+   <attribute name="image" value="http://tp2.sinaimg.cn/1969632037/50/5716653504/1" />
+   <attribute name="statusText" value="垃圾银行才有的低级错误" />
+   <attribute name="createAt" value="2015-01-21 15:38" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="殷向出版社" />
+   <attribute name="userId" value="1039045137" />
+   <attribute name="statusId" value="3801357649798212" />
+   <attribute name="image" value="http://tp2.sinaimg.cn/1039045137/50/5634478388/0" />
+   <attribute name="statusText" value="转发微博" />
+   <attribute name="createAt" value="2015-01-21 07:49" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="中国邮政直邮刘大溥" />
+   <attribute name="userId" value="2183471615" />
+   <attribute name="statusId" value="3801590852533963" />
+   <attribute name="image" value="http://tp4.sinaimg.cn/2183471615/50/5603416736/1" />
+   <attribute name="statusText" value="//@和合邓润:这就是天操 //@红颜先生:内外勾结！里应外合！//@杨双溢:这个事情很有意思!//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 23:15" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="阜阳热线波哥" />
+   <attribute name="userId" value="3918346350" />
+   <attribute name="statusId" value="3801360493511565" />
+   <attribute name="image" value="http://tp3.sinaimg.cn/3918346350/50/5688250223/1" />
+   <attribute name="statusText" value="//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 08:00" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="曾经de我走了-" />
+   <attribute name="userId" value="2561944094" />
+   <attribute name="statusId" value="3801453875309048" />
+   <attribute name="image" value="http://tp3.sinaimg.cn/2561944094/50/40064547306/0" />
+   <attribute name="statusText" value="转发微博" />
+   <attribute name="createAt" value="2015-01-21 14:11" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="delphia1029" />
+   <attribute name="userId" value="2290676172" />
+   <attribute name="statusId" value="3801399911898705" />
+   <attribute name="image" value="http://tp1.sinaimg.cn/2290676172/50/0/0" />
+   <attribute name="statusText" value="//@袁裕来律师: 恐怖。//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 10:37" />
+   <branch>
+    <attribute name="userName" value="1自2由3的4猫" />
+    <attribute name="userId" value="5277659131" />
+    <attribute name="statusId" value="3801400074861004" />
+    <attribute name="image" value="http://tp4.sinaimg.cn/5277659131/50/40064377835/1" />
+    <attribute name="statusText" value="//@delphia1029: //@袁裕来律师: 恐怖。//@任志强:难道法律管不了银行？" />
+    <attribute name="createAt" value="2015-01-21 10:37" />
+   </branch>
+  </branch>
+  <branch>
+   <attribute name="userName" value="Hey飞儿" />
+   <attribute name="userId" value="2513047022" />
+   <attribute name="statusId" value="3801435986248227" />
+   <attribute name="image" value="http://tp3.sinaimg.cn/2513047022/50/22865284478/0" />
+   <attribute name="statusText" value="转发微博" />
+   <attribute name="createAt" value="2015-01-21 13:00" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="峰過無痕7" />
+   <attribute name="userId" value="1953407402" />
+   <attribute name="statusId" value="3801372984599855" />
+   <attribute name="image" value="http://tp3.sinaimg.cn/1953407402/50/5620349303/1" />
+   <attribute name="statusText" value="//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 08:50" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="妙妙的小蛮腰" />
+   <attribute name="userId" value="2843843545" />
+   <attribute name="statusId" value="3801419645696346" />
+   <attribute name="image" value="http://tp2.sinaimg.cn/2843843545/50/22892606406/0" />
+   <attribute name="statusText" value="//@袁裕来律师: 恐怖。//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 11:55" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="CY翼通华北" />
+   <attribute name="userId" value="2241410470" />
+   <attribute name="statusId" value="3801334333628605" />
+   <attribute name="image" value="http://tp3.sinaimg.cn/2241410470/50/40002377965/1" />
+   <attribute name="statusText" value="转发微博" />
+   <attribute name="createAt" value="2015-01-21 06:16" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="马振媛-北京" />
+   <attribute name="userId" value="2782817941" />
+   <attribute name="statusId" value="3801365966922376" />
+   <attribute name="image" value="http://tp2.sinaimg.cn/2782817941/50/5684937574/0" />
+   <attribute name="statusText" value="轉發微博" />
+   <attribute name="createAt" value="2015-01-21 08:22" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="999幽竹" />
+   <attribute name="userId" value="1581954760" />
+   <attribute name="statusId" value="3801816413850075" />
+   <attribute name="image" value="http://tp1.sinaimg.cn/1581954760/50/5650536942/0" />
+   <attribute name="statusText" value="转发微博" />
+   <attribute name="createAt" value="2015-01-22 14:12" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="爱天使raissa" />
+   <attribute name="userId" value="2813687051" />
+   <attribute name="statusId" value="3801373668197960" />
+   <attribute name="image" value="http://tp4.sinaimg.cn/2813687051/50/40030548697/0" />
+   <attribute name="statusText" value="//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 08:52" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="八骥伏枥" />
+   <attribute name="userId" value="2404619793" />
+   <attribute name="statusId" value="3801356878008916" />
+   <attribute name="image" value="http://tp2.sinaimg.cn/2404619793/50/0/1" />
+   <attribute name="statusText" value="银行和法律就想权和钱，是近亲。//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 07:46" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="portia的新家" />
+   <attribute name="userId" value="2144362380" />
+   <attribute name="statusId" value="3801413798795653" />
+   <attribute name="image" value="http://tp1.sinaimg.cn/2144362380/50/5615279777/0" />
+   <attribute name="statusText" value="//@任志强: 难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 11:32" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="嗡嘛呢叭咪哞王" />
+   <attribute name="userId" value="3087171520" />
+   <attribute name="statusId" value="3801398971830791" />
+   <attribute name="image" value="http://tp1.sinaimg.cn/3087171520/50/5656400146/1" />
+   <attribute name="statusText" value="我操，如果是银行的钱不见了会怎样" />
+   <attribute name="createAt" value="2015-01-21 10:33" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="a粉娘" />
+   <attribute name="userId" value="1838576414" />
+   <attribute name="statusId" value="3801419642039815" />
+   <attribute name="image" value="http://tp3.sinaimg.cn/1838576414/50/5707715272/0" />
+   <attribute name="statusText" value="转发微博" />
+   <attribute name="createAt" value="2015-01-21 11:55" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="陆秋为" />
+   <attribute name="userId" value="1301248904" />
+   <attribute name="statusId" value="3801531680007708" />
+   <attribute name="image" value="http://tp1.sinaimg.cn/1301248904/50/1289564586/1" />
+   <attribute name="statusText" value="如此不负责任，是给支付宝们机会啊！ //@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 19:20" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="天噵酉州懃者" />
+   <attribute name="userId" value="2823119732" />
+   <attribute name="statusId" value="3801892621034052" />
+   <attribute name="image" value="http://tp1.sinaimg.cn/2823119732/50/5714359189/1" />
+   <attribute name="statusText" value="//@腾讯微博颖王:长腿跑了//@议会最大E:太恐怖了//@福山雅致I: //@不羁点灯6:抢劫太难着，干脆直接拿走。 //@袁裕来律师:恐怖。//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-22 19:14" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="冬天的四叶草2012" />
+   <attribute name="userId" value="2330364504" />
+   <attribute name="statusId" value="3801379473001513" />
+   <attribute name="image" value="http://tp1.sinaimg.cn/2330364504/50/40001609317/0" />
+   <attribute name="statusText" value="转发微博" />
+   <attribute name="createAt" value="2015-01-21 09:15" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="藍岕茉" />
+   <attribute name="userId" value="2426550152" />
+   <attribute name="statusId" value="3801391208460796" />
+   <attribute name="image" value="http://tp1.sinaimg.cn/2426550152/50/5692594635/0" />
+   <attribute name="statusText" value="存钱没用了" />
+   <attribute name="createAt" value="2015-01-21 10:02" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="闪闪发光的人渣" />
+   <attribute name="userId" value="3803049298" />
+   <attribute name="statusId" value="3801493322368588" />
+   <attribute name="image" value="http://tp3.sinaimg.cn/3803049298/50/5674531809/1" />
+   <attribute name="statusText" value="钱放银行了，丢了竟然说不关它们事，呵呵，抢钱都没这么厚脸皮//@袁裕来律师:恐怖。//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 16:48" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="刘阿澜" />
+   <attribute name="userId" value="2716071823" />
+   <attribute name="statusId" value="3801357771477713" />
+   <attribute name="image" value="http://tp4.sinaimg.cn/2716071823/50/5629976791/0" />
+   <attribute name="statusText" value="//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 07:49" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="智羽双全520" />
+   <attribute name="userId" value="2287532097" />
+   <attribute name="statusId" value="3801328159144392" />
+   <attribute name="image" value="http://tp2.sinaimg.cn/2287532097/50/22834453182/1" />
+   <attribute name="statusText" value="@陈光武律师: 【银行不是脱不了干系，而是必还无疑】近期，储户在银行丢钱报道屡见媒体，今日央视又专题报道。银行说业务员个人行为与银行无关；储户说丢的容易，追回来难；警察说，刑事案件等破案追脏。专家说银行脱不了干系...依我看丝毫不用担心。只要钱存到了银行或在柜台交到业务员手中银行必还！" />
+   <attribute name="createAt" value="2015-01-21 05:52" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="深深的海洋上空飘着云" />
+   <attribute name="userId" value="1115562387" />
+   <attribute name="statusId" value="3801330294533792" />
+   <attribute name="image" value="http://tp4.sinaimg.cn/1115562387/50/0/1" />
+   <attribute name="statusText" value="//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 06:00" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="盘丝家纺的胖纸" />
+   <attribute name="userId" value="2354237214" />
+   <attribute name="statusId" value="3801356806631066" />
+   <attribute name="image" value="http://tp3.sinaimg.cn/2354237214/50/5638692605/1" />
+   <attribute name="statusText" value="什么叫脱不了干系？压根全责好吧！//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 07:45" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="朱东恩" />
+   <attribute name="userId" value="1926842252" />
+   <attribute name="statusId" value="3801369444310410" />
+   <attribute name="image" value="http://tp1.sinaimg.cn/1926842252/50/5698801044/1" />
+   <attribute name="statusText" value="富有富伤心，穷有穷开心。" />
+   <attribute name="createAt" value="2015-01-21 08:36" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="lawzhuang" />
+   <attribute name="userId" value="1197135513" />
+   <attribute name="statusId" value="3801739171660525" />
+   <attribute name="image" value="http://tp2.sinaimg.cn/1197135513/50/5621218562/1" />
+   <attribute name="statusText" value="银行兴“承包”了吗？！" />
+   <attribute name="createAt" value="2015-01-22 09:05" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="蒂朵朵朵朵" />
+   <attribute name="userId" value="3717167171" />
+   <attribute name="statusId" value="3801354785029753" />
+   <attribute name="image" value="http://tp4.sinaimg.cn/3717167171/50/40069725285/0" />
+   <attribute name="statusText" value="看看看看，又是这些该死的鼠辈们。" />
+   <attribute name="createAt" value="2015-01-21 07:37" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="阳明_在路上" />
+   <attribute name="userId" value="2104989750" />
+   <attribute name="statusId" value="3801359176277683" />
+   <attribute name="image" value="http://tp3.sinaimg.cn/2104989750/50/5621215788/1" />
+   <attribute name="statusText" value="//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 07:55" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="小菇凉痴痴" />
+   <attribute name="userId" value="5362675626" />
+   <attribute name="statusId" value="3801391342898794" />
+   <attribute name="image" value="http://tp3.sinaimg.cn/5362675626/50/5715611063/0" />
+   <attribute name="statusText" value="//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 10:03" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="-蓝色-心情" />
+   <attribute name="userId" value="2556407821" />
+   <attribute name="statusId" value="3801573291643177" />
+   <attribute name="image" value="http://tp2.sinaimg.cn/2556407821/50/5626312475/1" />
+   <attribute name="statusText" value="//@Akhmatova11:这究竟怎么回事情? 没救了，这世界。 //@任志强: 难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 22:06" />
+   <branch>
+    <attribute name="userName" value="杜康111" />
+    <attribute name="userId" value="2655170343" />
+    <attribute name="statusId" value="3801578279004297" />
+    <attribute name="image" value="http://tp4.sinaimg.cn/2655170343/50/5642347784/1" />
+    <attribute name="statusText" value="//@-蓝色-心情://@Akhmatova11:这究竟怎么回事情? 没救了，这世界。 //@任志强: 难道法律管不了银行？" />
+    <attribute name="createAt" value="2015-01-21 22:25" />
+   </branch>
+  </branch>
+  <branch>
+   <attribute name="userName" value="金更帅" />
+   <attribute name="userId" value="5041589183" />
+   <attribute name="statusId" value="3801353828463388" />
+   <attribute name="image" value="http://tp4.sinaimg.cn/5041589183/50/5689084280/1" />
+   <attribute name="statusText" value="转发微博" />
+   <attribute name="createAt" value="2015-01-21 07:34" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="睡着的人2" />
+   <attribute name="userId" value="5472976499" />
+   <attribute name="statusId" value="3801368442080137" />
+   <attribute name="image" value="http://tp4.sinaimg.cn/5472976499/50/5715930544/1" />
+   <attribute name="statusText" value="→_→//@袁裕来律师:恐怖。//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 08:32" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="lucky翘楚" />
+   <attribute name="userId" value="1712478053" />
+   <attribute name="statusId" value="3801354357494336" />
+   <attribute name="image" value="http://tp2.sinaimg.cn/1712478053/50/5612858208/0" />
+   <attribute name="statusText" value="法律管个屁//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 07:36" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="省港通缉犯" />
+   <attribute name="userId" value="3230728751" />
+   <attribute name="statusId" value="3801461979245129" />
+   <attribute name="image" value="http://tp4.sinaimg.cn/3230728751/50/22848706056/1" />
+   <attribute name="statusText" value="骗人" />
+   <attribute name="createAt" value="2015-01-21 14:43" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="希望还在-等吧" />
+   <attribute name="userId" value="2448392881" />
+   <attribute name="statusId" value="3801445440377374" />
+   <attribute name="image" value="http://tp2.sinaimg.cn/2448392881/50/5653877384/1" />
+   <attribute name="statusText" value="//@荣剑2004: 银行内部人把储户的钱偷了，银行说它没责任，这是什么银行?//@袁裕来律师:恐怖。//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 13:38" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="80后微小企业联盟-天津锦彩家政" />
+   <attribute name="userId" value="1178280137" />
+   <attribute name="statusId" value="3801353945617616" />
+   <attribute name="image" value="http://tp2.sinaimg.cn/1178280137/50/22844151804/1" />
+   <attribute name="statusText" value="转发微博" />
+   <attribute name="createAt" value="2015-01-21 07:34" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="天空的和弦" />
+   <attribute name="userId" value="1772663101" />
+   <attribute name="statusId" value="3801370740489468" />
+   <attribute name="image" value="http://tp2.sinaimg.cn/1772663101/50/40037284952/1" />
+   <attribute name="statusText" value="转发微博" />
+   <attribute name="createAt" value="2015-01-21 08:41" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="宪行中国" />
+   <attribute name="userId" value="3088221191" />
+   <attribute name="statusId" value="3801740497700993" />
+   <attribute name="image" value="http://tp4.sinaimg.cn/3088221191/50/5647651475/1" />
+   <attribute name="statusText" value="//@Akhmatova11:这究竟怎么回事情? 没救了，这世界。 //@任志强: 难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-22 09:10" />
+   <branch>
+    <attribute name="userName" value="初进者2015" />
+    <attribute name="userId" value="5459590915" />
+    <attribute name="statusId" value="3801746780267870" />
+    <attribute name="image" value="http://tp4.sinaimg.cn/5459590915/50/0/1" />
+    <attribute name="statusText" value="//@宪行中国: //@Akhmatova11:这究竟怎么回事情? 没救了，这世界。 //@任志强: 难道法律管不了银行？" />
+    <attribute name="createAt" value="2015-01-22 09:35" />
+   </branch>
+  </branch>
+  <branch>
+   <attribute name="userName" value="贾煤体" />
+   <attribute name="userId" value="1921023093" />
+   <attribute name="statusId" value="3801359436367651" />
+   <attribute name="image" value="http://tp2.sinaimg.cn/1921023093/50/5629716381/1" />
+   <attribute name="statusText" value="//@袁裕来律师:恐怖。//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 07:56" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="破冰茫茫之旅" />
+   <attribute name="userId" value="5117176818" />
+   <attribute name="statusId" value="3801807337662317" />
+   <attribute name="image" value="http://tp3.sinaimg.cn/5117176818/50/22889583098/1" />
+   <attribute name="statusText" value="法律是针对屁民的。//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-22 13:36" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="每天留一点时间等等灵魂归来" />
+   <attribute name="userId" value="2235898834" />
+   <attribute name="statusId" value="3801379166845595" />
+   <attribute name="image" value="http://tp3.sinaimg.cn/2235898834/50/5635456190/1" />
+   <attribute name="statusText" value="//@袁裕来律师:恐怖。//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 09:14" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="斜阳斋" />
+   <attribute name="userId" value="1380905365" />
+   <attribute name="statusId" value="3801427031793740" />
+   <attribute name="image" value="http://tp2.sinaimg.cn/1380905365/50/5697702587/1" />
+   <attribute name="statusText" value="转发微博" />
+   <attribute name="createAt" value="2015-01-21 12:24" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="梦寒心境" />
+   <attribute name="userId" value="2684813515" />
+   <attribute name="statusId" value="3801342335839145" />
+   <attribute name="image" value="http://tp4.sinaimg.cn/2684813515/50/0/0" />
+   <attribute name="statusText" value="银行已经不能信任，谁还能帮助民众?" />
+   <attribute name="createAt" value="2015-01-21 06:48" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="Sunny-GJ-Sunny" />
+   <attribute name="userId" value="2316805135" />
+   <attribute name="statusId" value="3801548750775728" />
+   <attribute name="image" value="http://tp4.sinaimg.cn/2316805135/50/5633952784/0" />
+   <attribute name="statusText" value="//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 20:28" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="平凡小妞儿" />
+   <attribute name="userId" value="1602794620" />
+   <attribute name="statusId" value="3801378382060663" />
+   <attribute name="image" value="http://tp1.sinaimg.cn/1602794620/50/5703935547/0" />
+   <attribute name="statusText" value="找不回来就得银行赔付 //@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 09:11" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="你问我答疯狂兔不死鸟" />
+   <attribute name="userId" value="1626864491" />
+   <attribute name="statusId" value="3801418026231452" />
+   <attribute name="image" value="http://tp4.sinaimg.cn/1626864491/50/1270910280/1" />
+   <attribute name="statusText" value="转发微博" />
+   <attribute name="createAt" value="2015-01-21 11:49" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="淘宝-兔拉拉66网店" />
+   <attribute name="userId" value="1745213471" />
+   <attribute name="statusId" value="3801346882994962" />
+   <attribute name="image" value="http://tp4.sinaimg.cn/1745213471/50/5614684946/1" />
+   <attribute name="statusText" value="//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 07:06" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="奇葩1号" />
+   <attribute name="userId" value="3628442335" />
+   <attribute name="statusId" value="3801401727353720" />
+   <attribute name="image" value="http://tp4.sinaimg.cn/3628442335/50/22873679616/1" />
+   <attribute name="statusText" value="还好我卡里不多" />
+   <attribute name="createAt" value="2015-01-21 10:44" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="淘宝开店指导_意朋" />
+   <attribute name="userId" value="2653393097" />
+   <attribute name="statusId" value="3801503901357528" />
+   <attribute name="image" value="http://tp2.sinaimg.cn/2653393097/50/5716204393/1" />
+   <attribute name="statusText" value="想自己开网店吗？不用自己进货和发货。每天只要1-2个小时左右处理下订单就OK啦！有意者可以私信我、或者咨询QQ573266904 联系电话 18037511701" />
+   <attribute name="createAt" value="2015-01-21 17:30" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="sunshine左左" />
+   <attribute name="userId" value="1249326582" />
+   <attribute name="statusId" value="3801376364309835" />
+   <attribute name="image" value="http://tp3.sinaimg.cn/1249326582/50/40040329964/0" />
+   <attribute name="statusText" value="长此以往，小银行是否还能生存啊。。//@任志强: 难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 09:03" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="城之天使" />
+   <attribute name="userId" value="1866177023" />
+   <attribute name="statusId" value="3801358010827251" />
+   <attribute name="image" value="http://tp4.sinaimg.cn/1866177023/50/40032658208/1" />
+   <attribute name="statusText" value="//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 07:50" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="何时会天明" />
+   <attribute name="userId" value="2907366397" />
+   <attribute name="statusId" value="3801365421963000" />
+   <attribute name="image" value="http://tp2.sinaimg.cn/2907366397/50/5673506550/1" />
+   <attribute name="statusText" value="//@荣剑2004:银行内部人把储户的钱偷了，银行说它没责任，这是什么银行?//@袁裕来律师:恐怖。//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 08:20" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="田鼠-多巴胺" />
+   <attribute name="userId" value="2551350287" />
+   <attribute name="statusId" value="3801357104213096" />
+   <attribute name="image" value="http://tp4.sinaimg.cn/2551350287/50/5619743376/0" />
+   <attribute name="statusText" value="最近这样的新闻真多，吓人 //@施力勤:现在电子化了，你怎么证明你有存款️ //@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 07:47" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="Hi高小霞" />
+   <attribute name="userId" value="1935510045" />
+   <attribute name="statusId" value="3801381993620889" />
+   <attribute name="image" value="http://tp2.sinaimg.cn/1935510045/50/5708211881/0" />
+   <attribute name="statusText" value="转发微博" />
+   <attribute name="createAt" value="2015-01-21 09:25" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="小小人生005" />
+   <attribute name="userId" value="1837414641" />
+   <attribute name="statusId" value="3801349944825465" />
+   <attribute name="image" value="http://tp2.sinaimg.cn/1837414641/50/5697869681/1" />
+   <attribute name="statusText" value="监管太松 //@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 07:18" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="孙欣欣的微博" />
+   <attribute name="userId" value="1902394091" />
+   <attribute name="statusId" value="3801341413249181" />
+   <attribute name="image" value="http://tp4.sinaimg.cn/1902394091/50/5673142804/0" />
+   <attribute name="statusText" value="//@Tansam陈江南: 转发微博" />
+   <attribute name="createAt" value="2015-01-21 06:44" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="TSOD" />
+   <attribute name="userId" value="1381237882" />
+   <attribute name="statusId" value="3801433348851234" />
+   <attribute name="image" value="http://tp3.sinaimg.cn/1381237882/50/5633952077/1" />
+   <attribute name="statusText" value="假如无法找回，银行不应负责赔款么？" />
+   <attribute name="createAt" value="2015-01-21 12:50" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="用户3720220141" />
+   <attribute name="userId" value="3720220141" />
+   <attribute name="statusId" value="3801396488896532" />
+   <attribute name="image" value="http://tp2.sinaimg.cn/3720220141/50/0/1" />
+   <attribute name="statusText" value="存在@建设银行 的8000元1月15号被转账走，这多天银行都没有给说法，什么办事效率啊！每次去催态度都很不好，还说让等他们消息，说他们手续复杂得一级级的去查。我想知道没经过持卡人操作以及任何证件怎么就能那随便的转账呢？钱转出去难道就不需要任何手续吗？@建设银行 @浠水官方微博" />
+   <attribute name="createAt" value="2015-01-21 10:23" />
+   <branch>
+    <attribute name="userName" value="用户3720220141" />
+    <attribute name="userId" value="3720220141" />
+    <attribute name="statusId" value="3801516257529617" />
+    <attribute name="image" value="http://tp2.sinaimg.cn/3720220141/50/0/1" />
+    <attribute name="statusText" value="存在@建设银行 的8000元1月15号被转账走，这多天银行都没有给说法，什么办事效率啊！每次去催态度都很不好，说让等他们的消息，说他们手续复杂得一级级的去查。我想知道没经过持卡人操作以及任何证件怎么就能那随便的转账呢？钱转出去难道就不需要任何手续吗？@建设银行 @浠水官方微博" />
+    <attribute name="createAt" value="2015-01-21 18:19" />
+   </branch>
+  </branch>
+  <branch>
+   <attribute name="userName" value="aizhizhuo" />
+   <attribute name="userId" value="2769371743" />
+   <attribute name="statusId" value="3801396983648345" />
+   <attribute name="image" value="http://tp4.sinaimg.cn/2769371743/50/5636182474/1" />
+   <attribute name="statusText" value="//@任志强: 难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 10:25" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="难忘记去年今天" />
+   <attribute name="userId" value="2110688054" />
+   <attribute name="statusId" value="3801531873112774" />
+   <attribute name="image" value="http://tp3.sinaimg.cn/2110688054/50/22836801830/1" />
+   <attribute name="statusText" value="//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 19:21" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="光头斗客" />
+   <attribute name="userId" value="2608036987" />
+   <attribute name="statusId" value="3801409441392662" />
+   <attribute name="image" value="http://tp4.sinaimg.cn/2608036987/50/40050614441/1" />
+   <attribute name="statusText" value="法律除了管老百姓有用外还能管的了谁！？//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 11:14" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="Beijing-Hamburg" />
+   <attribute name="userId" value="1740663261" />
+   <attribute name="statusId" value="3801965207340019" />
+   <attribute name="image" value="http://tp2.sinaimg.cn/1740663261/50/5703684960/0" />
+   <attribute name="statusText" value="//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-23 00:03" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="路人癸fang" />
+   <attribute name="userId" value="1268171880" />
+   <attribute name="statusId" value="3801443020905581" />
+   <attribute name="image" value="http://tp1.sinaimg.cn/1268171880/50/5600581970/0" />
+   <attribute name="statusText" value="终于有人敢说实话了。//@任志强: 难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 13:28" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="省港通缉犯" />
+   <attribute name="userId" value="3230728751" />
+   <attribute name="statusId" value="3801462193055910" />
+   <attribute name="image" value="http://tp4.sinaimg.cn/3230728751/50/22848706056/1" />
+   <attribute name="statusText" value="操" />
+   <attribute name="createAt" value="2015-01-21 14:44" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="樱桃花开v" />
+   <attribute name="userId" value="2681663794" />
+   <attribute name="statusId" value="3801570380315950" />
+   <attribute name="image" value="http://tp3.sinaimg.cn/2681663794/50/5716616604/0" />
+   <attribute name="statusText" value="砖家你可说回实话，谢你八辈祖宗" />
+   <attribute name="createAt" value="2015-01-21 21:54" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="众赢君安" />
+   <attribute name="userId" value="5463960549" />
+   <attribute name="statusId" value="3801390851556242" />
+   <attribute name="image" value="http://tp2.sinaimg.cn/5463960549/50/22895535936/1" />
+   <attribute name="statusText" value="难道法律管不了银行！？！？" />
+   <attribute name="createAt" value="2015-01-21 10:01" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="正品田太" />
+   <attribute name="userId" value="2527696264" />
+   <attribute name="statusId" value="3801336171097070" />
+   <attribute name="image" value="http://tp1.sinaimg.cn/2527696264/50/5712235921/0" />
+   <attribute name="statusText" value="还是存余额宝吧！ //@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 06:23" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="流浪王子马文彬" />
+   <attribute name="userId" value="1500715390" />
+   <attribute name="statusId" value="3801367846018113" />
+   <attribute name="image" value="http://tp3.sinaimg.cn/1500715390/50/40071701626/1" />
+   <attribute name="statusText" value="//@何时会天明://@荣剑2004:银行内部人把储户的钱偷了，银行说它没责任，这是什么银行?//@袁裕来律师:恐怖。//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 08:29" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="haozhe来了" />
+   <attribute name="userId" value="3592981171" />
+   <attribute name="statusId" value="3801338029061829" />
+   <attribute name="image" value="http://tp4.sinaimg.cn/3592981171/50/0/0" />
+   <attribute name="statusText" value="//@袁裕来律师: 恐怖。//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 06:31" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="liu_licao" />
+   <attribute name="userId" value="1713559952" />
+   <attribute name="statusId" value="3801340134201932" />
+   <attribute name="image" value="http://tp1.sinaimg.cn/1713559952/50/5596536752/0" />
+   <attribute name="statusText" value="我的几百大洋就这样莫名其妙的被转走了，银行方面回应他们无法做出赔偿//@袁裕来律师:恐怖。//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 06:39" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="超级_大陆" />
+   <attribute name="userId" value="1663224393" />
+   <attribute name="statusId" value="3801342541383495" />
+   <attribute name="image" value="http://tp2.sinaimg.cn/1663224393/50/5614774907/1" />
+   <attribute name="statusText" value="//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 06:49" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="李沛华Li" />
+   <attribute name="userId" value="2157629345" />
+   <attribute name="statusId" value="3801346736627722" />
+   <attribute name="image" value="http://tp2.sinaimg.cn/2157629345/50/5612484506/1" />
+   <attribute name="statusText" value="//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 07:05" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="我爱小肌肉" />
+   <attribute name="userId" value="1458930447" />
+   <attribute name="statusId" value="3801357918519308" />
+   <attribute name="image" value="http://tp4.sinaimg.cn/1458930447/50/5648611392/1" />
+   <attribute name="statusText" value="银行是保管我存款的地儿，丢了当然是银行全赔，这还有啥异议吗？//@京鲁潘律师:在银行丢多少，就让银行赔多少，看银行还敢粗心大意？还敢不堵漏洞？//@任志强: 难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 07:50" />
+   <branch>
+    <attribute name="userName" value="洋姜女侠" />
+    <attribute name="userId" value="1902564147" />
+    <attribute name="statusId" value="3801371994089195" />
+    <attribute name="image" value="http://tp4.sinaimg.cn/1902564147/50/5716461575/0" />
+    <attribute name="statusText" value="//@我爱小肌肉:银行是保管我存款的地儿，丢了当然是银行全赔，这还有啥异议吗？//@京鲁潘律师:在银行丢多少，就让银行赔多少，看银行还敢粗心大意？还敢不堵漏洞？//@任志强: 难道法律管不了银行？" />
+    <attribute name="createAt" value="2015-01-21 08:46" />
+    <branch>
+     <attribute name="userName" value="穆紫一直都叫朴小样" />
+     <attribute name="userId" value="1748518657" />
+     <attribute name="statusId" value="3801373684202070" />
+     <attribute name="image" value="http://tp2.sinaimg.cn/1748518657/50/5663652352/0" />
+     <attribute name="statusText" value="为啥不是丢多少除了实际丢失的还有因为丢失造成的利息//@洋姜女侠://@我爱小肌肉:银行是保管我存款的地儿，丢了当然是银行全赔，这还有啥异议吗？//@京鲁潘律师:在银行丢多少，就让银行赔多少，看银行还敢粗心大意？还敢不堵漏洞？//@任志强: 难道法律管不了银行？" />
+     <attribute name="createAt" value="2015-01-21 08:52" />
+     <branch>
+      <attribute name="userName" value="庄小熊SAMA" />
+      <attribute name="userId" value="1764934015" />
+      <attribute name="statusId" value="3801373717976900" />
+      <attribute name="image" value="http://tp4.sinaimg.cn/1764934015/50/22871774227/0" />
+      <attribute name="statusText" value="//@穆紫一直都叫朴小样: 为啥不是丢多少除了实际丢失的还有因为丢失造成的利息//@洋姜女侠://@我爱小肌肉:银行是保管我存款的地儿，丢了当然是银行全赔，这还有啥异议吗？//@京鲁潘律师:在银行丢多少，就让银行赔多少，看银行还敢粗心大意？还敢不堵漏洞？//@任志强: 难道法律管不了银行？" />
+      <attribute name="createAt" value="2015-01-21 08:53" />
+      <branch>
+       <attribute name="userName" value="京鲁潘律师" />
+       <attribute name="userId" value="1886931271" />
+       <attribute name="statusId" value="3801375282455069" />
+       <attribute name="image" value="http://tp4.sinaimg.cn/1886931271/50/5606271955/1" />
+       <attribute name="statusText" value="起诉的时候肯定要加利息，银行会以第三人窃取为由主张免责，实践中为保银行法院也会枉法裁判//@庄小熊SAMA: //@穆紫一直都叫朴小样: 为啥不是丢多少除了实际丢失的还有因为丢失造成的利息//@洋姜女侠://@我爱小肌肉:银行//@京鲁潘律师:在银行丢多少？//@任志强: 难道法律管不了银行？" />
+       <attribute name="createAt" value="2015-01-21 08:59" />
+      </branch>
+     </branch>
+     <branch>
+      <attribute name="userName" value="俺的头像萌萌哒" />
+      <attribute name="userId" value="1764999887" />
+      <attribute name="statusId" value="3801382723644138" />
+      <attribute name="image" value="http://tp4.sinaimg.cn/1764999887/50/22887498917/0" />
+      <attribute name="statusText" value="合着我丢过几百块算少的啊//@穆紫一直都叫朴小样:为啥不是丢多少除了实际丢失的还有因为丢失造成的利息//@洋姜女侠://@我爱小肌肉:银行是保管我存款的地儿，丢了当然是银行全赔，这还有啥异议吗？//@京鲁潘律师:在银行丢多少，就让银行赔多少，看银行还敢粗心大意？还敢不堵漏洞？//" />
+      <attribute name="createAt" value="2015-01-21 09:28" />
+     </branch>
+    </branch>
+   </branch>
+  </branch>
+  <branch>
+   <attribute name="userName" value="Tian5ong" />
+   <attribute name="userId" value="3016358705" />
+   <attribute name="statusId" value="3801549240811744" />
+   <attribute name="image" value="http://tp2.sinaimg.cn/3016358705/50/5715600381/0" />
+   <attribute name="statusText" value="银行都不安全了。。。我那些几千个一毛的钱去存哪啊？？老天啊。。请你给我个出路吧" />
+   <attribute name="createAt" value="2015-01-21 20:30" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="362033636美丽心情" />
+   <attribute name="userId" value="2356502695" />
+   <attribute name="statusId" value="3801402394909188" />
+   <attribute name="image" value="http://tp4.sinaimg.cn/2356502695/50/5675751451/0" />
+   <attribute name="statusText" value="难道不应该就归银行赔吗？//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 10:47" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="清风飞到" />
+   <attribute name="userId" value="1658370365" />
+   <attribute name="statusId" value="3801328772250407" />
+   <attribute name="image" value="http://tp2.sinaimg.cn/1658370365/50/0/1" />
+   <attribute name="statusText" value="//@袁裕来律师:恐怖。//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 05:54" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="淡淡的云平淡是真" />
+   <attribute name="userId" value="5225524994" />
+   <attribute name="statusId" value="3801343023783439" />
+   <attribute name="image" value="http://tp3.sinaimg.cn/5225524994/50/5700892395/0" />
+   <attribute name="statusText" value="//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 06:51" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="金哥20129" />
+   <attribute name="userId" value="2860272041" />
+   <attribute name="statusId" value="3801350125245775" />
+   <attribute name="image" value="http://tp2.sinaimg.cn/2860272041/50/22841137485/1" />
+   <attribute name="statusText" value="【银行不是脱不了干系，而是必还无疑】近期，储户在银行丢钱报道屡见媒体，今日央视又专题报道。银行说业务员个人行为，与银行无关；储户说丢的容易，追回来难；警察说，刑事案件，等破案追脏。专家说银行脱不了干系...依我看丝毫不用担心。只要钱存到了银行，或在柜台交到业务员手中，银行必还！" />
+   <attribute name="createAt" value="2015-01-21 07:19" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="小窝笑嘻嘻200311" />
+   <attribute name="userId" value="5338473784" />
+   <attribute name="statusId" value="3801472074647047" />
+   <attribute name="image" value="http://tp1.sinaimg.cn/5338473784/50/5709532206/1" />
+   <attribute name="statusText" value="转发微博" />
+   <attribute name="createAt" value="2015-01-21 15:23" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="随便看看转转668" />
+   <attribute name="userId" value="5235371811" />
+   <attribute name="statusId" value="3802265502543483" />
+   <attribute name="image" value="http://tp4.sinaimg.cn/5235371811/50/0/1" />
+   <attribute name="statusText" value="//@议会最大E: 太恐怖了//@福山雅致I: //@不羁点灯6:抢劫太难着，干脆直接拿走。 //@袁裕来律师:恐怖。//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-23 19:56" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="叶也野" />
+   <attribute name="userId" value="1563257825" />
+   <attribute name="statusId" value="3801404487802545" />
+   <attribute name="image" value="http://tp2.sinaimg.cn/1563257825/50/40009042793/1" />
+   <attribute name="statusText" value="还是藏在床底下最安全 //@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 10:55" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="野玫瑰2820859431" />
+   <attribute name="userId" value="2820859431" />
+   <attribute name="statusId" value="3801331019693276" />
+   <attribute name="image" value="http://tp4.sinaimg.cn/2820859431/50/5711625367/0" />
+   <attribute name="statusText" value="//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 06:03" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="君尙当如竹" />
+   <attribute name="userId" value="3480493882" />
+   <attribute name="statusId" value="3801345041837486" />
+   <attribute name="image" value="http://tp3.sinaimg.cn/3480493882/50/5715908304/1" />
+   <attribute name="statusText" value="//@袁裕来律师:恐怖。//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 06:59" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="我的家人是军人" />
+   <attribute name="userId" value="5217669895" />
+   <attribute name="statusId" value="3801357444640919" />
+   <attribute name="image" value="http://tp4.sinaimg.cn/5217669895/50/5700308484/1" />
+   <attribute name="statusText" value="无理狡辩" />
+   <attribute name="createAt" value="2015-01-21 07:48" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="罗里个卜" />
+   <attribute name="userId" value="2454663242" />
+   <attribute name="statusId" value="3801347096974721" />
+   <attribute name="image" value="http://tp3.sinaimg.cn/2454663242/50/5708699023/1" />
+   <attribute name="statusText" value="看到少则百万元，我就放心了//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 07:07" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="军玉2998305861" />
+   <attribute name="userId" value="2998305861" />
+   <attribute name="statusId" value="3801379988051323" />
+   <attribute name="image" value="http://tp2.sinaimg.cn/2998305861/50/5645957214/1" />
+   <attribute name="statusText" value="转发微博" />
+   <attribute name="createAt" value="2015-01-21 09:17" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="手浪用户2572458121" />
+   <attribute name="userId" value="2572458121" />
+   <attribute name="statusId" value="3801604132327163" />
+   <attribute name="image" value="http://tp2.sinaimg.cn/2572458121/50/0/1" />
+   <attribute name="statusText" value="回复@你能不能小点儿声:嗯//@你能不能小点儿声:有钱放家里~牢靠！//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-22 00:08" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="黄建-Jim" />
+   <attribute name="userId" value="1725632431" />
+   <attribute name="statusId" value="3801422019636588" />
+   <attribute name="image" value="http://tp4.sinaimg.cn/1725632431/50/1296912571/1" />
+   <attribute name="statusText" value="钱存银行，银行当然有保管之责。丢失了就得赔偿啊，这还有什么疑问吗？ //@袁裕来律师:恐怖。 //@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 12:04" />
+   <branch>
+    <attribute name="userName" value="黄建-Jim" />
+    <attribute name="userId" value="1725632431" />
+    <attribute name="statusId" value="3801422262928525" />
+    <attribute name="image" value="http://tp4.sinaimg.cn/1725632431/50/1296912571/1" />
+    <attribute name="statusText" value="公布这些银行的名字，他们就不怕发生挤提吗？ //@黄建-Jim:钱存银行，银行当然有保管之责。丢失了就得赔偿啊，这还有什么疑问吗？ //@袁裕来律师:恐怖。 //@任志强:难道法律管不了银行？" />
+    <attribute name="createAt" value="2015-01-21 12:05" />
+   </branch>
+  </branch>
+  <branch>
+   <attribute name="userName" value="楚怡2011" />
+   <attribute name="userId" value="2592731642" />
+   <attribute name="statusId" value="3801382802843676" />
+   <attribute name="image" value="http://tp3.sinaimg.cn/2592731642/50/40043006487/0" />
+   <attribute name="statusText" value="//@任志强: 难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 09:29" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="猪头六号" />
+   <attribute name="userId" value="3607852892" />
+   <attribute name="statusId" value="3801458632143092" />
+   <attribute name="image" value="http://tp1.sinaimg.cn/3607852892/50/5693809496/0" />
+   <attribute name="statusText" value="//@袁裕来律师:恐怖。//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 14:30" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="yutouxiao" />
+   <attribute name="userId" value="1002321674" />
+   <attribute name="statusId" value="3801389333986091" />
+   <attribute name="image" value="http://tp3.sinaimg.cn/1002321674/50/0/1" />
+   <attribute name="statusText" value="//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 09:55" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="九州大地笑开颜" />
+   <attribute name="userId" value="2183773542" />
+   <attribute name="statusId" value="3801437580534054" />
+   <attribute name="image" value="http://tp3.sinaimg.cn/2183773542/50/0/1" />
+   <attribute name="statusText" value="//@袁裕来律师: 恐怖。//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 13:06" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="人淡如菊静静绽放" />
+   <attribute name="userId" value="1869716062" />
+   <attribute name="statusId" value="3801534255442846" />
+   <attribute name="image" value="http://tp3.sinaimg.cn/1869716062/50/1291305561/0" />
+   <attribute name="statusText" value="//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 19:30" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="戈壁上的梧桐树" />
+   <attribute name="userId" value="5039871453" />
+   <attribute name="statusId" value="3801475278905204" />
+   <attribute name="image" value="http://tp2.sinaimg.cn/5039871453/50/5687518252/1" />
+   <attribute name="statusText" value="转发微博" />
+   <attribute name="createAt" value="2015-01-21 15:36" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="向东流2903974905" />
+   <attribute name="userId" value="2903974905" />
+   <attribute name="statusId" value="3801428550343464" />
+   <attribute name="image" value="http://tp2.sinaimg.cn/2903974905/50/0/1" />
+   <attribute name="statusText" value="转发微博" />
+   <attribute name="createAt" value="2015-01-21 12:30" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="The-Boy-in-Blue" />
+   <attribute name="userId" value="1897386873" />
+   <attribute name="statusId" value="3801359440721708" />
+   <attribute name="image" value="http://tp2.sinaimg.cn/1897386873/50/40019530200/1" />
+   <attribute name="statusText" value="@霸气僧哥" />
+   <attribute name="createAt" value="2015-01-21 07:56" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="手机用户3277794385" />
+   <attribute name="userId" value="3277794385" />
+   <attribute name="statusId" value="3801526168835232" />
+   <attribute name="image" value="http://tp2.sinaimg.cn/3277794385/50/0/0" />
+   <attribute name="statusText" value="//@袁裕来律师:恐怖。//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 18:58" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="zzbcq2013" />
+   <attribute name="userId" value="2496349144" />
+   <attribute name="statusId" value="3801373109944899" />
+   <attribute name="image" value="http://tp1.sinaimg.cn/2496349144/50/5614644914/1" />
+   <attribute name="statusText" value="//@袁裕来律师:恐怖。//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 08:50" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="2010紫琦" />
+   <attribute name="userId" value="1747843573" />
+   <attribute name="statusId" value="3801420325487297" />
+   <attribute name="image" value="http://tp2.sinaimg.cn/1747843573/50/1275120145/0" />
+   <attribute name="statusText" value="转发微博" />
+   <attribute name="createAt" value="2015-01-21 11:58" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="早晨去上学0805" />
+   <attribute name="userId" value="2935612937" />
+   <attribute name="statusId" value="3801577158476405" />
+   <attribute name="image" value="http://tp2.sinaimg.cn/2935612937/50/5662907911/1" />
+   <attribute name="statusText" value="//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 22:21" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="招商信诺保险在线" />
+   <attribute name="userId" value="3871062862" />
+   <attribute name="statusId" value="3801428197668399" />
+   <attribute name="image" value="http://tp3.sinaimg.cn/3871062862/50/40038425988/0" />
+   <attribute name="statusText" value="【多地银行储户存款频丢失 专家:银行脱不了干系】" />
+   <attribute name="createAt" value="2015-01-21 12:29" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="大笨鱼77" />
+   <attribute name="userId" value="1909908795" />
+   <attribute name="statusId" value="3801379363437533" />
+   <attribute name="image" value="http://tp4.sinaimg.cn/1909908795/50/5674132553/1" />
+   <attribute name="statusText" value="多给储户钱了储户必须归还，还要自己跑银行去办，否则就要按照盗窃罪入狱。银行把储户钱搞丢了，就要储户自己承担。这是怎样恶心的制度。 //@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 09:15" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="淡淡的丁香2" />
+   <attribute name="userId" value="5163217719" />
+   <attribute name="statusId" value="3801671644172161" />
+   <attribute name="image" value="http://tp4.sinaimg.cn/5163217719/50/40056344153/0" />
+   <attribute name="statusText" value="太恐怖了。//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-22 04:36" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="灰灰的VV" />
+   <attribute name="userId" value="1925105687" />
+   <attribute name="statusId" value="3801377530890223" />
+   <attribute name="image" value="http://tp4.sinaimg.cn/1925105687/50/5648647194/0" />
+   <attribute name="statusText" value="转发微博" />
+   <attribute name="createAt" value="2015-01-21 09:08" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="孙健昊天" />
+   <attribute name="userId" value="1631566767" />
+   <attribute name="statusId" value="3801340968958324" />
+   <attribute name="image" value="http://tp4.sinaimg.cn/1631566767/50/5660952518/1" />
+   <attribute name="statusText" value="法律还管不了电视台，几十年的欺骗广告何其多。说百姓有监督权，让央视公布那些所谓名嘴的合法收入给大家看，//@任志强: 难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 06:42" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="王小奇到此一游" />
+   <attribute name="userId" value="1764009971" />
+   <attribute name="statusId" value="3801383067392001" />
+   <attribute name="image" value="http://tp4.sinaimg.cn/1764009971/50/5710235879/0" />
+   <attribute name="statusText" value="这样谁还敢存钱 //@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 09:30" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="太空纯水" />
+   <attribute name="userId" value="1336670440" />
+   <attribute name="statusId" value="3801469872071242" />
+   <attribute name="image" value="http://tp1.sinaimg.cn/1336670440/50/40020638617/0" />
+   <attribute name="statusText" value="//@袁裕来律师: 恐怖。//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 15:15" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="鹿小喵一脸" />
+   <attribute name="userId" value="3087860543" />
+   <attribute name="statusId" value="3801412171567212" />
+   <attribute name="image" value="http://tp4.sinaimg.cn/3087860543/50/40050985270/1" />
+   <attribute name="statusText" value="银行都不安全了，难道钱要锁柜子里面吗 //@小鱼是晶晶:卧槽！什么叫找回的可能性很小！！有没有王法啦！！！" />
+   <attribute name="createAt" value="2015-01-21 11:25" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="陈天色law" />
+   <attribute name="userId" value="2767850744" />
+   <attribute name="statusId" value="3801753021401610" />
+   <attribute name="image" value="http://tp1.sinaimg.cn/2767850744/50/5714283562/0" />
+   <attribute name="statusText" value="可见有多缺钱了！ //@袁裕来律师:恐怖。//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-22 10:00" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="谎言背后的真相hk" />
+   <attribute name="userId" value="2812028825" />
+   <attribute name="statusId" value="3801358497117323" />
+   <attribute name="image" value="http://tp2.sinaimg.cn/2812028825/50/5641308669/1" />
+   <attribute name="statusText" value="//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 07:52" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="只能近处走1550562082" />
+   <attribute name="userId" value="1550562082" />
+   <attribute name="statusId" value="3801454525478678" />
+   <attribute name="image" value="http://tp3.sinaimg.cn/1550562082/50/22874266982/1" />
+   <attribute name="statusText" value="//@荣剑2004: 银行内部人把储户的钱偷了，银行说它没责任，这是什么银行?//@袁裕来律师:恐怖。//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 14:14" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="steven_jzc" />
+   <attribute name="userId" value="5134556933" />
+   <attribute name="statusId" value="3801402453398124" />
+   <attribute name="image" value="http://tp2.sinaimg.cn/5134556933/50/5700701192/1" />
+   <attribute name="statusText" value="不是法律管不了银行，而是法律管不了党！//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 10:47" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="阎林甫关博会" />
+   <attribute name="userId" value="1669703120" />
+   <attribute name="statusId" value="3801409520380939" />
+   <attribute name="image" value="http://tp1.sinaimg.cn/1669703120/50/5613809445/1" />
+   <attribute name="statusText" value="转发微博" />
+   <attribute name="createAt" value="2015-01-21 11:15" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="feitu的小窝" />
+   <attribute name="userId" value="2516399507" />
+   <attribute name="statusId" value="3801431989455445" />
+   <attribute name="image" value="http://tp4.sinaimg.cn/2516399507/50/22845241579/1" />
+   <attribute name="statusText" value="//@袁裕来律师:恐怖。//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 12:44" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="李家老贰" />
+   <attribute name="userId" value="2609740231" />
+   <attribute name="statusId" value="3801493650017647" />
+   <attribute name="image" value="http://tp4.sinaimg.cn/2609740231/50/5702436518/0" />
+   <attribute name="statusText" value="挺//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 16:49" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="再不疯狂就老了撒" />
+   <attribute name="userId" value="3179867710" />
+   <attribute name="statusId" value="3801365144452175" />
+   <attribute name="image" value="http://tp3.sinaimg.cn/3179867710/50/0/1" />
+   <attribute name="statusText" value="//@袁裕来律师:恐怖。//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 08:18" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="东张西网" />
+   <attribute name="userId" value="3805337603" />
+   <attribute name="statusId" value="3801406949881623" />
+   <attribute name="image" value="http://tp4.sinaimg.cn/3805337603/50/5698741065/1" />
+   <attribute name="statusText" value="银行应该赔偿//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 11:05" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="侽朲偠厚道" />
+   <attribute name="userId" value="2497001303" />
+   <attribute name="statusId" value="3801375500596761" />
+   <attribute name="image" value="http://tp4.sinaimg.cn/2497001303/50/5617426228/1" />
+   <attribute name="statusText" value="按照取款机吐钱如果取走就要判刑来说的话，银行高管该判多少年呢？//@任志强: 难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 09:00" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="嵩阳松雪" />
+   <attribute name="userId" value="3217159854" />
+   <attribute name="statusId" value="3801409973149023" />
+   <attribute name="image" value="http://tp3.sinaimg.cn/3217159854/50/0/1" />
+   <attribute name="statusText" value="//@袁裕来律师: 恐怖。//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 11:17" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="阳光明媚Happylife" />
+   <attribute name="userId" value="1847305211" />
+   <attribute name="statusId" value="3801436690967435" />
+   <attribute name="image" value="http://tp4.sinaimg.cn/1847305211/50/1291427385/0" />
+   <attribute name="statusText" value="转发微博" />
+   <attribute name="createAt" value="2015-01-21 13:03" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="第二个聂树斌" />
+   <attribute name="userId" value="3593143307" />
+   <attribute name="statusId" value="3801784352856222" />
+   <attribute name="image" value="http://tp4.sinaimg.cn/3593143307/50/0/1" />
+   <attribute name="statusText" value="//@记得李庄第3季: //@袁裕来律师: 恐怖。//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-22 12:04" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="tian雷_lin" />
+   <attribute name="userId" value="2001201073" />
+   <attribute name="statusId" value="3801360070279759" />
+   <attribute name="image" value="http://tp2.sinaimg.cn/2001201073/50/5706166125/0" />
+   <attribute name="statusText" value="还有查下那些存定期的钱都让他们弄去哪了，尤其是老年人在银行存的定期，总会无缘无故的消失" />
+   <attribute name="createAt" value="2015-01-21 07:58" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="不古股学" />
+   <attribute name="userId" value="3212691380" />
+   <attribute name="statusId" value="3802309626754365" />
+   <attribute name="image" value="http://tp1.sinaimg.cn/3212691380/50/40073423158/1" />
+   <attribute name="statusText" value="所谓的稳定收益么？呵呵。" />
+   <attribute name="createAt" value="2015-01-23 22:52" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="zhwhyyzbj" />
+   <attribute name="userId" value="1211145513" />
+   <attribute name="statusId" value="3801396367241112" />
+   <attribute name="image" value="http://tp2.sinaimg.cn/1211145513/50/0/1" />
+   <attribute name="statusText" value="哎，不管银行，哎 //@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 10:23" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="rabbi杨_fme" />
+   <attribute name="userId" value="1420516083" />
+   <attribute name="statusId" value="3801334748295671" />
+   <attribute name="image" value="http://tp4.sinaimg.cn/1420516083/50/5712969489/0" />
+   <attribute name="statusText" value="//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 06:18" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="pilotsong003" />
+   <attribute name="userId" value="2407583427" />
+   <attribute name="statusId" value="3801373466276169" />
+   <attribute name="image" value="http://tp4.sinaimg.cn/2407583427/50/0/1" />
+   <attribute name="statusText" value="转发微博" />
+   <attribute name="createAt" value="2015-01-21 08:52" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="大概率逻辑" />
+   <attribute name="userId" value="3292095547" />
+   <attribute name="statusId" value="3802563310557115" />
+   <attribute name="image" value="http://tp4.sinaimg.cn/3292095547/50/5666888932/1" />
+   <attribute name="statusText" value="板块轮动还木轮到罢了 //@股民付方贤:不是法律管不了，是故意不管，不把老百姓当回事。。。 //@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-24 15:40" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="一切为了梦想的阿星" />
+   <attribute name="userId" value="2914558902" />
+   <attribute name="statusId" value="3801346022791819" />
+   <attribute name="image" value="http://tp3.sinaimg.cn/2914558902/50/39999059251/1" />
+   <attribute name="statusText" value="很简单，存余额宝！//@任志强: 难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 07:03" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="蜗居的袋鼠mami" />
+   <attribute name="userId" value="1919764270" />
+   <attribute name="statusId" value="3801372951021315" />
+   <attribute name="image" value="http://tp3.sinaimg.cn/1919764270/50/5704810426/0" />
+   <attribute name="statusText" value="这还能安心的存钱吗？？？" />
+   <attribute name="createAt" value="2015-01-21 08:50" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="P2P投资圈" />
+   <attribute name="userId" value="5205284599" />
+   <attribute name="statusId" value="3801529745995096" />
+   <attribute name="image" value="http://tp4.sinaimg.cn/5205284599/50/5715951113/1" />
+   <attribute name="statusText" value="转发微博" />
+   <attribute name="createAt" value="2015-01-21 19:13" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="南洞庭" />
+   <attribute name="userId" value="1965879504" />
+   <attribute name="statusId" value="3801360246251836" />
+   <attribute name="image" value="http://tp1.sinaimg.cn/1965879504/50/5672234691/1" />
+   <attribute name="statusText" value="存钱到银行也不安全了！" />
+   <attribute name="createAt" value="2015-01-21 07:59" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="U友30417109" />
+   <attribute name="userId" value="2198641817" />
+   <attribute name="statusId" value="3801486482308220" />
+   <attribute name="image" value="http://tp2.sinaimg.cn/2198641817/50/0/1" />
+   <attribute name="statusText" value="……共产党来了，真的苦变甜乎？？……" />
+   <attribute name="createAt" value="2015-01-21 16:21" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="GWI158" />
+   <attribute name="userId" value="2646039282" />
+   <attribute name="statusId" value="3802314697489078" />
+   <attribute name="image" value="http://tp3.sinaimg.cn/2646039282/50/5714881506/1" />
+   <attribute name="statusText" value="//@陈光武律师:【银行不是脱不了干系，而是必还无疑】专家说银行脱不了干系...依我看丝毫不用担心。只要钱存到了银行，或在柜台交到业务员手中，银行必还！" />
+   <attribute name="createAt" value="2015-01-23 23:12" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="小溪之" />
+   <attribute name="userId" value="2272124031" />
+   <attribute name="statusId" value="3801377673339306" />
+   <attribute name="image" value="http://tp4.sinaimg.cn/2272124031/50/40056245263/1" />
+   <attribute name="statusText" value="银库是国家的，国家能有错？？//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 09:08" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="手机用户2937608777" />
+   <attribute name="userId" value="2937608777" />
+   <attribute name="statusId" value="3801598528973469" />
+   <attribute name="image" value="http://tp2.sinaimg.cn/2937608777/50/0/1" />
+   <attribute name="statusText" value="//@袁裕来律师:恐怖。//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 23:46" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="幸福通天塔" />
+   <attribute name="userId" value="1422888887" />
+   <attribute name="statusId" value="3802079954666841" />
+   <attribute name="image" value="http://tp4.sinaimg.cn/1422888887/50/0/1" />
+   <attribute name="statusText" value="//@荣剑2004:银行内部人把储户的钱偷了，银行说它没责任，这是什么银行?//@袁裕来律师:恐怖。//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-23 07:39" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="Jogalii" />
+   <attribute name="userId" value="1825579727" />
+   <attribute name="statusId" value="3801388842249159" />
+   <attribute name="image" value="http://tp4.sinaimg.cn/1825579727/50/5651667392/0" />
+   <attribute name="statusText" value="这个描述超级的轻描淡写。。。//@任志强: 难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 09:53" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="失联小屋" />
+   <attribute name="userId" value="3297788622" />
+   <attribute name="statusId" value="3801364419233189" />
+   <attribute name="image" value="http://tp3.sinaimg.cn/3297788622/50/5664415452/0" />
+   <attribute name="statusText" value="" />
+   <attribute name="createAt" value="2015-01-21 08:16" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="大巴AND细巴" />
+   <attribute name="userId" value="1971008762" />
+   <attribute name="statusId" value="3801374406351437" />
+   <attribute name="image" value="http://tp3.sinaimg.cn/1971008762/50/5600422660/1" />
+   <attribute name="statusText" value="大家可真要查查帐单了" />
+   <attribute name="createAt" value="2015-01-21 08:55" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="捕风的水味道" />
+   <attribute name="userId" value="3223034167" />
+   <attribute name="statusId" value="3802100657564286" />
+   <attribute name="image" value="http://tp4.sinaimg.cn/3223034167/50/22837236050/1" />
+   <attribute name="statusText" value="//@听_忧伤的歌: //@唐朝的元芳:以后要不要存钱了//@袁裕来律师:恐怖。//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-23 09:01" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="去留无心qlwx" />
+   <attribute name="userId" value="1338279364" />
+   <attribute name="statusId" value="3801383960896232" />
+   <attribute name="image" value="http://tp1.sinaimg.cn/1338279364/50/5715955698/0" />
+   <attribute name="statusText" value="连银行都是不安全的//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 09:33" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="CRH和谐之旅" />
+   <attribute name="userId" value="2144460847" />
+   <attribute name="statusId" value="3801367871391537" />
+   <attribute name="image" value="http://tp4.sinaimg.cn/2144460847/50/5604126150/1" />
+   <attribute name="statusText" value="在法制的今天，出现这样的现象，银行竟然无责，谁保护我们的权益//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 08:29" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="hf蓝水晶" />
+   <attribute name="userId" value="1696742503" />
+   <attribute name="statusId" value="3801347214669947" />
+   <attribute name="image" value="http://tp4.sinaimg.cn/1696742503/50/0/0" />
+   <attribute name="statusText" value="//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 07:07" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="广州安家世行" />
+   <attribute name="userId" value="1911406737" />
+   <attribute name="statusId" value="3801404718682883" />
+   <attribute name="image" value="http://tp2.sinaimg.cn/1911406737/50/5599033377/1" />
+   <attribute name="statusText" value="多地银行储户存款频丢失，专家：银行脱不了干系！存款丢得“容易”，被找回可能性很小！信用卡盗刷，银行“隔岸观火”，也没有任何帮助措施！什么时候能有所改善？" />
+   <attribute name="createAt" value="2015-01-21 10:56" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="若般蜜波罗" />
+   <attribute name="userId" value="2694228817" />
+   <attribute name="statusId" value="3801401413072561" />
+   <attribute name="image" value="http://tp2.sinaimg.cn/2694228817/50/22873656232/1" />
+   <attribute name="statusText" value="这世道。" />
+   <attribute name="createAt" value="2015-01-21 10:43" />
+   <branch>
+    <attribute name="userName" value="终结者tzzhfc" />
+    <attribute name="userId" value="1336328915" />
+    <attribute name="statusId" value="3801431506770117" />
+    <attribute name="image" value="http://tp4.sinaimg.cn/1336328915/50/1300941117/1" />
+    <attribute name="statusText" value="//@若般蜜波罗:这世道。" />
+    <attribute name="createAt" value="2015-01-21 12:42" />
+   </branch>
+  </branch>
+  <branch>
+   <attribute name="userName" value="牛海银" />
+   <attribute name="userId" value="1765340251" />
+   <attribute name="statusId" value="3801387396073372" />
+   <attribute name="image" value="http://tp4.sinaimg.cn/1765340251/50/1279904806/1" />
+   <attribute name="statusText" value="就是这样，上周六看央视新闻说到泸州老窖账户被盗的事情，还没有最终解决，但是之前就有酒鬼酒账户被盗的事情，最终钱也没完全赔付，损失惨重。//@小鱼是晶晶:卧槽！什么叫找回的可能性很小！！有没有王法啦！！！" />
+   <attribute name="createAt" value="2015-01-21 09:47" />
+   <branch>
+    <attribute name="userName" value="real萌果果" />
+    <attribute name="userId" value="3502521322" />
+    <attribute name="statusId" value="3802235336783395" />
+    <attribute name="image" value="http://tp3.sinaimg.cn/3502521322/50/40054909603/0" />
+    <attribute name="statusText" value="看到少则几百万的时候我松了一口气。。。 //@牛海银:就是这样，上周六看央视新闻说到泸州老窖账户被盗的事情，还没有最终解决，但是之前就有酒鬼酒账户被盗的事情，最终钱也没完全赔付，损失惨重。//@小鱼是晶晶:卧槽！什么叫找回的可能性很小！！有没有王法啦！！！" />
+    <attribute name="createAt" value="2015-01-23 17:56" />
+   </branch>
+  </branch>
+  <branch>
+   <attribute name="userName" value="平度东关" />
+   <attribute name="userId" value="5304978524" />
+   <attribute name="statusId" value="3801828975762990" />
+   <attribute name="image" value="http://tp1.sinaimg.cn/5304978524/50/0/1" />
+   <attribute name="statusText" value="//@袁裕来律师:恐怖。//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-22 15:02" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="东方一树" />
+   <attribute name="userId" value="1463425650" />
+   <attribute name="statusId" value="3801374540657647" />
+   <attribute name="image" value="http://tp3.sinaimg.cn/1463425650/50/5613470165/1" />
+   <attribute name="statusText" value="这比拦路抢劫厉害。据说，拦路抢劫还会亏本呢。//@袁裕来律师: 恐怖。//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 08:56" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="为学日益之远" />
+   <attribute name="userId" value="3129342824" />
+   <attribute name="statusId" value="3801348350718450" />
+   <attribute name="image" value="http://tp1.sinaimg.cn/3129342824/50/5675673156/1" />
+   <attribute name="statusText" value="//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 07:12" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="yanbigking" />
+   <attribute name="userId" value="1947969622" />
+   <attribute name="statusId" value="3801376062468990" />
+   <attribute name="image" value="http://tp3.sinaimg.cn/1947969622/50/5649410702/1" />
+   <attribute name="statusText" value="//@袁裕来律师: 恐怖。//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 09:02" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="芜悱嗳恨" />
+   <attribute name="userId" value="2006422281" />
+   <attribute name="statusId" value="3801386825101912" />
+   <attribute name="image" value="http://tp2.sinaimg.cn/2006422281/50/5686819809/0" />
+   <attribute name="statusText" value="//@任志强: 难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 09:45" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="LUCKYZKAI" />
+   <attribute name="userId" value="2173864957" />
+   <attribute name="statusId" value="3801335730239439" />
+   <attribute name="image" value="http://tp2.sinaimg.cn/2173864957/50/22823744236/1" />
+   <attribute name="statusText" value="为了搞钱都拼了" />
+   <attribute name="createAt" value="2015-01-21 06:22" />
+   <branch>
+    <attribute name="userName" value="WTV卫视评论" />
+    <attribute name="userId" value="2529590787" />
+    <attribute name="statusId" value="3801335881375234" />
+    <attribute name="image" value="http://tp4.sinaimg.cn/2529590787/50/5711512807/1" />
+    <attribute name="statusText" value="专家的名字叫？ //@LUCKYZKAI:为了搞钱都拼了" />
+    <attribute name="createAt" value="2015-01-21 06:22" />
+    <branch>
+     <attribute name="userName" value="凄惨32" />
+     <attribute name="userId" value="3795448323" />
+     <attribute name="statusId" value="3801348916695251" />
+     <attribute name="image" value="http://tp4.sinaimg.cn/3795448323/50/5674170503/1" />
+     <attribute name="statusText" value="//@WTV卫视评论: //@LUCKYZKAI:为了搞钱都拼了" />
+     <attribute name="createAt" value="2015-01-21 07:14" />
+    </branch>
+    <branch>
+     <attribute name="userName" value="蘑菇与雲" />
+     <attribute name="userId" value="2901916311" />
+     <attribute name="statusId" value="3801338536428113" />
+     <attribute name="image" value="http://tp4.sinaimg.cn/2901916311/50/5669367111/0" />
+     <attribute name="statusText" value="//@WTV卫视评论:专家的名字叫？ //@LUCKYZKAI:为了搞钱都拼了" />
+     <attribute name="createAt" value="2015-01-21 06:33" />
+    </branch>
+   </branch>
+  </branch>
+  <branch>
+   <attribute name="userName" value="滁州之星" />
+   <attribute name="userId" value="3943504474" />
+   <attribute name="statusId" value="3801539141440333" />
+   <attribute name="image" value="http://tp3.sinaimg.cn/3943504474/50/0/1" />
+   <attribute name="statusText" value="//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 19:50" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="li李万华" />
+   <attribute name="userId" value="3178768303" />
+   <attribute name="statusId" value="3801797024521066" />
+   <attribute name="image" value="http://tp4.sinaimg.cn/3178768303/50/5670541921/1" />
+   <attribute name="statusText" value="没有敢管银行的了吗？" />
+   <attribute name="createAt" value="2015-01-22 12:55" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="祥毛" />
+   <attribute name="userId" value="1612208822" />
+   <attribute name="statusId" value="3801377832844805" />
+   <attribute name="image" value="http://tp3.sinaimg.cn/1612208822/50/40013446534/1" />
+   <attribute name="statusText" value="监守自盗//@OzaGhost:“少则几百万”，怎么也轮不到我。这个时候没钱的优势体现出来了。 //@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 09:09" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="老虎5315" />
+   <attribute name="userId" value="2839937710" />
+   <attribute name="statusId" value="3801397684680944" />
+   <attribute name="image" value="http://tp3.sinaimg.cn/2839937710/50/5688617576/1" />
+   <attribute name="statusText" value="好事都是银行的，坏事都是储户的。" />
+   <attribute name="createAt" value="2015-01-21 10:28" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="0云上的日子0" />
+   <attribute name="userId" value="2178800982" />
+   <attribute name="statusId" value="3801355640741129" />
+   <attribute name="image" value="http://tp3.sinaimg.cn/2178800982/50/5712562939/1" />
+   <attribute name="statusText" value="艹！银行特么狗日的！" />
+   <attribute name="createAt" value="2015-01-21 07:41" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="赵开鹏_" />
+   <attribute name="userId" value="1864461721" />
+   <attribute name="statusId" value="3801339883079982" />
+   <attribute name="image" value="http://tp2.sinaimg.cn/1864461721/50/5682511582/1" />
+   <attribute name="statusText" value="丢失百万找回很难？" />
+   <attribute name="createAt" value="2015-01-21 06:38" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="爱睡懒觉的小鸟" />
+   <attribute name="userId" value="1884764821" />
+   <attribute name="statusId" value="3801385486987080" />
+   <attribute name="image" value="http://tp2.sinaimg.cn/1884764821/50/40007648568/1" />
+   <attribute name="statusText" value="//@任志强: 难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 09:39" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="Victory-slw" />
+   <attribute name="userId" value="1410764711" />
+   <attribute name="statusId" value="3801329376036915" />
+   <attribute name="image" value="http://tp4.sinaimg.cn/1410764711/50/1260526762/1" />
+   <attribute name="statusText" value="如果银行员工参与内外勾结做案，致存款人存款丢失，银行对此不担责，那以后银行就会成为盗取客户资金平台，无数的银行员工会成为大老鼠！" />
+   <attribute name="createAt" value="2015-01-21 05:56" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="太阳哥2011" />
+   <attribute name="userId" value="1934134593" />
+   <attribute name="statusId" value="3801348849903794" />
+   <attribute name="image" value="http://tp2.sinaimg.cn/1934134593/50/0/1" />
+   <attribute name="statusText" value="//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 07:14" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="鄧肇峰Calvin" />
+   <attribute name="userId" value="1930987015" />
+   <attribute name="statusId" value="3801413668758969" />
+   <attribute name="image" value="http://tp4.sinaimg.cn/1930987015/50/22819950163/1" />
+   <attribute name="statusText" value="......" />
+   <attribute name="createAt" value="2015-01-21 11:31" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="Chinaxin社交" />
+   <attribute name="userId" value="1732173261" />
+   <attribute name="statusId" value="3801357649276128" />
+   <attribute name="image" value="http://tp2.sinaimg.cn/1732173261/50/5713813349/1" />
+   <attribute name="statusText" value="转发微博" />
+   <attribute name="createAt" value="2015-01-21 07:49" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="深圳产品摄影设计张伟" />
+   <attribute name="userId" value="1652388324" />
+   <attribute name="statusId" value="3801411408064351" />
+   <attribute name="image" value="http://tp1.sinaimg.cn/1652388324/50/40069976053/1" />
+   <attribute name="statusText" value="我也想去银行工作 //@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 11:22" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="Liron502" />
+   <attribute name="userId" value="2610089287" />
+   <attribute name="statusId" value="3801337005421173" />
+   <attribute name="image" value="http://tp4.sinaimg.cn/2610089287/50/22852153817/0" />
+   <attribute name="statusText" value="抢劫吗？ 世道？ //@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 06:27" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="kimi的阳光" />
+   <attribute name="userId" value="2626843694" />
+   <attribute name="statusId" value="3801384300451585" />
+   <attribute name="image" value="http://tp3.sinaimg.cn/2626843694/50/5712984856/0" />
+   <attribute name="statusText" value="转发微博" />
+   <attribute name="createAt" value="2015-01-21 09:35" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="zhangqiang20051028" />
+   <attribute name="userId" value="2816911204" />
+   <attribute name="statusId" value="3801354680396767" />
+   <attribute name="image" value="http://tp1.sinaimg.cn/2816911204/50/5633322303/1" />
+   <attribute name="statusText" value="//@袁裕来律师:恐怖。//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 07:37" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="鬼燃梦幻" />
+   <attribute name="userId" value="2385202427" />
+   <attribute name="statusId" value="3801382529993142" />
+   <attribute name="image" value="http://tp4.sinaimg.cn/2385202427/50/5714911274/1" />
+   <attribute name="statusText" value="这个国家已经这样了。废了，完了。" />
+   <attribute name="createAt" value="2015-01-21 09:28" />
+   <branch>
+    <attribute name="userName" value="mo-man-ying" />
+    <attribute name="userId" value="5025597945" />
+    <attribute name="statusId" value="3801438767385731" />
+    <attribute name="image" value="http://tp2.sinaimg.cn/5025597945/50/5716971583/0" />
+    <attribute name="statusText" value="转发微博" />
+    <attribute name="createAt" value="2015-01-21 13:11" />
+   </branch>
+   <branch>
+    <attribute name="userName" value="阿拉丁和妞妞" />
+    <attribute name="userId" value="1092608473" />
+    <attribute name="statusId" value="3801409465849829" />
+    <attribute name="image" value="http://tp2.sinaimg.cn/1092608473/50/5676168081/0" />
+    <attribute name="statusText" value="银行不保险 钱还是花自己身上靠谱" />
+    <attribute name="createAt" value="2015-01-21 11:15" />
+   </branch>
+   <branch>
+    <attribute name="userName" value="鬼燃梦幻" />
+    <attribute name="userId" value="2385202427" />
+    <attribute name="statusId" value="3801445553898417" />
+    <attribute name="image" value="http://tp4.sinaimg.cn/2385202427/50/5714911274/1" />
+    <attribute name="statusText" value="回复@鲁鲁未曾开微博:银行柜台取钱也会少钱……//@鲁鲁未曾开微博:怪不得！我前段时间去银行取2000块钱，当时没看取之前多少钱，后来回去看完短信一算，有200多块不翼而飞！//@鬼燃梦幻:这个国家已经这样了。废了，完了。" />
+    <attribute name="createAt" value="2015-01-21 13:38" />
+    <branch>
+     <attribute name="userName" value="玖渡琴怀" />
+     <attribute name="userId" value="5124850917" />
+     <attribute name="statusId" value="3801521932109032" />
+     <attribute name="image" value="http://tp2.sinaimg.cn/5124850917/50/0/1" />
+     <attribute name="statusText" value="是政府，不是国家//@鬼燃梦幻:回复@鲁鲁未曾开微博:银行柜台取钱也会少钱……//@鲁鲁未曾开微博:怪不得！我前段时间去银行取2000块钱，当时没看取之前多少钱，后来回去看完短信一算，有200多块不翼而飞！//@鬼燃梦幻:这个国家已经这样了。废了，完了。" />
+     <attribute name="createAt" value="2015-01-21 18:42" />
+    </branch>
+   </branch>
+   <branch>
+    <attribute name="userName" value="V--LiLLian" />
+    <attribute name="userId" value="2267816183" />
+    <attribute name="statusId" value="3801382857379315" />
+    <attribute name="image" value="http://tp4.sinaimg.cn/2267816183/50/40066173090/0" />
+    <attribute name="statusText" value="//@鬼燃梦幻: 这个国家已经这样了。废了，完了。" />
+    <attribute name="createAt" value="2015-01-21 09:29" />
+    <branch>
+     <attribute name="userName" value="隐者飞飞" />
+     <attribute name="userId" value="1707512771" />
+     <attribute name="statusId" value="3801402952041109" />
+     <attribute name="image" value="http://tp4.sinaimg.cn/1707512771/50/1268111034/1" />
+     <attribute name="statusText" value="而且“银行”不负任何责任。//@V--LiLLian: //@鬼燃梦幻: 这个国家已经这样了。废了，完了。" />
+     <attribute name="createAt" value="2015-01-21 10:49" />
+     <branch>
+      <attribute name="userName" value="小松鼠Solo" />
+      <attribute name="userId" value="1739819362" />
+      <attribute name="statusId" value="3801405263866435" />
+      <attribute name="image" value="http://tp3.sinaimg.cn/1739819362/50/5689563199/0" />
+      <attribute name="statusText" value="//@隐者飞飞:而且“银行”不负任何责任。//@V--LiLLian: //@鬼燃梦幻: 这个国家已经这样了。废了，完了。" />
+      <attribute name="createAt" value="2015-01-21 10:58" />
+     </branch>
+    </branch>
+   </branch>
+  </branch>
+  <branch>
+   <attribute name="userName" value="孤飘沙鸥" />
+   <attribute name="userId" value="5230807804" />
+   <attribute name="statusId" value="3801543990432876" />
+   <attribute name="image" value="http://tp1.sinaimg.cn/5230807804/50/5702650610/1" />
+   <attribute name="statusText" value="乱吧乱吧, 高噌长下的花&lt;还&gt;//@Akhmatova11: 这究竟怎么回事情? 没救了，这世界。 //@任志强: 难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 20:09" />
+   <branch>
+    <attribute name="userName" value="laikpl" />
+    <attribute name="userId" value="2501238125" />
+    <attribute name="statusId" value="3801544182776372" />
+    <attribute name="image" value="http://tp2.sinaimg.cn/2501238125/50/40014687533/1" />
+    <attribute name="statusText" value="//@孤飘沙鸥: 乱吧乱吧, 高噌长下的花&lt;还&gt;//@Akhmatova11: 这究竟怎么回事情? 没救了，这世界。 //@任志强: 难道法律管不了银行？" />
+    <attribute name="createAt" value="2015-01-21 20:10" />
+   </branch>
+   <branch>
+    <attribute name="userName" value="我要自邮v6" />
+    <attribute name="userId" value="5173375148" />
+    <attribute name="statusId" value="3801545089099607" />
+    <attribute name="image" value="http://tp1.sinaimg.cn/5173375148/50/5697531203/0" />
+    <attribute name="statusText" value="//@孤飘沙鸥:乱吧乱吧, 高噌长下的花&lt;还&gt;//@Akhmatova11: 这究竟怎么回事情? 没救了，这世界。 //@任志强: 难道法律管不了银行？" />
+    <attribute name="createAt" value="2015-01-21 20:14" />
+   </branch>
+   <branch>
+    <attribute name="userName" value="不知bz" />
+    <attribute name="userId" value="1586543384" />
+    <attribute name="statusId" value="3801544728277879" />
+    <attribute name="image" value="http://tp1.sinaimg.cn/1586543384/50/5678893374/1" />
+    <attribute name="statusText" value="银行和政府一样没了信誉！这个社会只能、必须崩溃！！//@孤飘沙鸥:乱吧乱吧, 高噌长下的花&lt;还&gt;//@Akhmatova11: 这究竟怎么回事情? 没救了，这世界。 //@任志强: 难道法律管不了银行？" />
+    <attribute name="createAt" value="2015-01-21 20:12" />
+   </branch>
+   <branch>
+    <attribute name="userName" value="歪门胁道" />
+    <attribute name="userId" value="5389141025" />
+    <attribute name="statusId" value="3801545998797341" />
+    <attribute name="image" value="http://tp2.sinaimg.cn/5389141025/50/40071711930/1" />
+    <attribute name="statusText" value="//@孤飘沙鸥: 乱吧乱吧, 高噌长下的花&lt;还&gt;//@Akhmatova11: 这究竟怎么回事情? 没救了，这世界。 //@任志强: 难道法律管不了银行？" />
+    <attribute name="createAt" value="2015-01-21 20:17" />
+   </branch>
+  </branch>
+  <branch>
+   <attribute name="userName" value="飞翔机器人" />
+   <attribute name="userId" value="1369755720" />
+   <attribute name="statusId" value="3802316836592253" />
+   <attribute name="image" value="http://tp1.sinaimg.cn/1369755720/50/40021779053/1" />
+   <attribute name="statusText" value="//@逍-遥-星:银行忘了百姓存钱的目的，丢了绝对的全权负责。对于透露信息者坚决判以重刑。法律不健全的地方太多了，请为民服务的领导都积极点。//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-23 23:20" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="天生近巫的束草" />
+   <attribute name="userId" value="3206578132" />
+   <attribute name="statusId" value="3801341531298422" />
+   <attribute name="image" value="http://tp1.sinaimg.cn/3206578132/50/40030762797/0" />
+   <attribute name="statusText" value="//@杀狼侍童://@袁裕来律师:恐怖。//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 06:45" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="无非帅" />
+   <attribute name="userId" value="2992754550" />
+   <attribute name="statusId" value="3801373122285122" />
+   <attribute name="image" value="http://tp3.sinaimg.cn/2992754550/50/0/1" />
+   <attribute name="statusText" value="//@任志强: 难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 08:50" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="中国刘学刚" />
+   <attribute name="userId" value="2186063514" />
+   <attribute name="statusId" value="3801377153176506" />
+   <attribute name="image" value="http://tp3.sinaimg.cn/2186063514/50/5603627334/1" />
+   <attribute name="statusText" value="如果银行不管的话，造成取兑潮，罪过就大了。 //@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 09:06" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="Lonely-Seek-A-Defeat" />
+   <attribute name="userId" value="2016648171" />
+   <attribute name="statusId" value="3802479043378436" />
+   <attribute name="image" value="http://tp4.sinaimg.cn/2016648171/50/5696385029/1" />
+   <attribute name="statusText" value="转发微博" />
+   <attribute name="createAt" value="2015-01-24 10:05" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="预流OR逐流" />
+   <attribute name="userId" value="2162733457" />
+   <attribute name="statusId" value="3801388485929330" />
+   <attribute name="image" value="http://tp2.sinaimg.cn/2162733457/50/40022629109/1" />
+   <attribute name="statusText" value="这是要逼马云出手了" />
+   <attribute name="createAt" value="2015-01-21 09:51" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="淡淡茶香飘四方" />
+   <attribute name="userId" value="1609660814" />
+   <attribute name="statusId" value="3801354181092255" />
+   <attribute name="image" value="http://tp3.sinaimg.cn/1609660814/50/22868733439/0" />
+   <attribute name="statusText" value="//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 07:35" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="杜军利vs乱世枭雄" />
+   <attribute name="userId" value="5253473250" />
+   <attribute name="statusId" value="3801376775423967" />
+   <attribute name="image" value="http://tp3.sinaimg.cn/5253473250/50/5712279007/1" />
+   <attribute name="statusText" value="里面是不是有腐败呢" />
+   <attribute name="createAt" value="2015-01-21 09:05" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="-美丽的神话-" />
+   <attribute name="userId" value="1420985605" />
+   <attribute name="statusId" value="3801350859441149" />
+   <attribute name="image" value="http://tp2.sinaimg.cn/1420985605/50/5701130506/1" />
+   <attribute name="statusText" value="转发微博" />
+   <attribute name="createAt" value="2015-01-21 07:22" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="倩倩5312052" />
+   <attribute name="userId" value="1506536080" />
+   <attribute name="statusId" value="3801344048002915" />
+   <attribute name="image" value="http://tp1.sinaimg.cn/1506536080/50/40008878092/1" />
+   <attribute name="statusText" value="转发微博" />
+   <attribute name="createAt" value="2015-01-21 06:55" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="裴文会" />
+   <attribute name="userId" value="2347360777" />
+   <attribute name="statusId" value="3801367858603579" />
+   <attribute name="image" value="http://tp2.sinaimg.cn/2347360777/50/0/1" />
+   <attribute name="statusText" value="//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 08:29" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="司马闲云" />
+   <attribute name="userId" value="3695372280" />
+   <attribute name="statusId" value="3801457843756564" />
+   <attribute name="image" value="http://tp1.sinaimg.cn/3695372280/50/5707302596/1" />
+   <attribute name="statusText" value="//@袁裕来律师:恐怖。//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 14:27" />
+   <branch>
+    <attribute name="userName" value="浴火重生2922" />
+    <attribute name="userId" value="2922676933" />
+    <attribute name="statusId" value="3801461811125335" />
+    <attribute name="image" value="http://tp2.sinaimg.cn/2922676933/50/5716545693/1" />
+    <attribute name="statusText" value="//@司马闲云: //@袁裕来律师:恐怖。//@任志强:难道法律管不了银行？" />
+    <attribute name="createAt" value="2015-01-21 14:43" />
+    <branch>
+     <attribute name="userName" value="zhangshunrong2013" />
+     <attribute name="userId" value="3793459264" />
+     <attribute name="statusId" value="3801469042124587" />
+     <attribute name="image" value="http://tp1.sinaimg.cn/3793459264/50/40033839023/1" />
+     <attribute name="statusText" value="//@浴火重生2922: //@司马闲云: //@袁裕来律师:恐怖。//@任志强:难道法律管不了银行？" />
+     <attribute name="createAt" value="2015-01-21 15:11" />
+    </branch>
+   </branch>
+  </branch>
+  <branch>
+   <attribute name="userName" value="阿诺猪华董" />
+   <attribute name="userId" value="2461064680" />
+   <attribute name="statusId" value="3801374582628819" />
+   <attribute name="image" value="http://tp1.sinaimg.cn/2461064680/50/5630653070/1" />
+   <attribute name="statusText" value="//@范剑平:怪不得贪官几亿现金放家里。 //@李正曦Sissi:太特么吓人了。。。" />
+   <attribute name="createAt" value="2015-01-21 08:56" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="奔向快乐的小马驹" />
+   <attribute name="userId" value="3166262933" />
+   <attribute name="statusId" value="3801388058601399" />
+   <attribute name="image" value="http://tp2.sinaimg.cn/3166262933/50/5683887120/0" />
+   <attribute name="statusText" value="//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 09:50" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="追求一生的" />
+   <attribute name="userId" value="2703638657" />
+   <attribute name="statusId" value="3801348350718066" />
+   <attribute name="image" value="http://tp2.sinaimg.cn/2703638657/50/5687973973/1" />
+   <attribute name="statusText" value="//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 07:12" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="雷贞芷小号o" />
+   <attribute name="userId" value="3551532710" />
+   <attribute name="statusId" value="3801463962903960" />
+   <attribute name="image" value="http://tp3.sinaimg.cn/3551532710/50/5716986346/1" />
+   <attribute name="statusText" value="//@荣剑2004:银行内部人把储户的钱偷了，银行说它没责任，这是什么银行?//@袁裕来律师:恐怖。//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 14:51" />
+   <branch>
+    <attribute name="userName" value="看透人道" />
+    <attribute name="userId" value="2177101847" />
+    <attribute name="statusId" value="3801470593545704" />
+    <attribute name="image" value="http://tp4.sinaimg.cn/2177101847/50/5692455642/1" />
+    <attribute name="statusText" value="//@Zhaoziyang2015: //@荣剑2004:银行内部人把储户的钱偷了，银行说它没责任，这是什么银行?//@袁裕来律师:恐怖。//@任志强:难道法律管不了银行？" />
+    <attribute name="createAt" value="2015-01-21 15:18" />
+   </branch>
+  </branch>
+  <branch>
+   <attribute name="userName" value="涿州户户通" />
+   <attribute name="userId" value="1358654955" />
+   <attribute name="statusId" value="3801343787234822" />
+   <attribute name="image" value="http://tp4.sinaimg.cn/1358654955/50/5713927770/1" />
+   <attribute name="statusText" value="存余儿额保宝丟多少全额赔我//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 06:54" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="皖西大学生经济研究会" />
+   <attribute name="userId" value="5348969722" />
+   <attribute name="statusId" value="3801495818177688" />
+   <attribute name="image" value="http://tp3.sinaimg.cn/5348969722/50/5709542667/1" />
+   <attribute name="statusText" value="转发微博" />
+   <attribute name="createAt" value="2015-01-21 16:58" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="霍义伟" />
+   <attribute name="userId" value="3186455032" />
+   <attribute name="statusId" value="3801590383383077" />
+   <attribute name="image" value="http://tp1.sinaimg.cn/3186455032/50/5685686213/1" />
+   <attribute name="statusText" value="" />
+   <attribute name="createAt" value="2015-01-21 23:14" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="雾幂" />
+   <attribute name="userId" value="1800137627" />
+   <attribute name="statusId" value="3801362301621739" />
+   <attribute name="image" value="http://tp4.sinaimg.cn/1800137627/50/5714720980/0" />
+   <attribute name="statusText" value="//@袁裕来律师:恐怖。//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 08:07" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="代鹏程112" />
+   <attribute name="userId" value="2798127227" />
+   <attribute name="statusId" value="3801351215547681" />
+   <attribute name="image" value="http://tp4.sinaimg.cn/2798127227/50/22892504089/1" />
+   <attribute name="statusText" value="呵呵//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 07:23" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="上官抗跌" />
+   <attribute name="userId" value="1683376581" />
+   <attribute name="statusId" value="3801447672273430" />
+   <attribute name="image" value="http://tp2.sinaimg.cn/1683376581/50/5703860214/0" />
+   <attribute name="statusText" value="还好我没钱" />
+   <attribute name="createAt" value="2015-01-21 13:46" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="白洪星TPY" />
+   <attribute name="userId" value="1590420701" />
+   <attribute name="statusId" value="3801393665781187" />
+   <attribute name="image" value="http://tp2.sinaimg.cn/1590420701/50/5697439290/1" />
+   <attribute name="statusText" value="//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 10:12" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="MrLeonShaw" />
+   <attribute name="userId" value="2028684497" />
+   <attribute name="statusId" value="3801351236855959" />
+   <attribute name="image" value="http://tp2.sinaimg.cn/2028684497/50/5683364918/1" />
+   <attribute name="statusText" value="//@袁裕来律师:恐怖。//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 07:23" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="往前划" />
+   <attribute name="userId" value="2975247811" />
+   <attribute name="statusId" value="3801349680483555" />
+   <attribute name="image" value="http://tp4.sinaimg.cn/2975247811/50/0/1" />
+   <attribute name="statusText" value="//@荣剑2004:银行内部人把储户的钱偷了，银行说它没责任，这是什么银行?//@袁裕来律师:恐怖。//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 07:17" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="cjlpcx" />
+   <attribute name="userId" value="2686605573" />
+   <attribute name="statusId" value="3801448410315217" />
+   <attribute name="image" value="http://tp2.sinaimg.cn/2686605573/50/5692394175/1" />
+   <attribute name="statusText" value="//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 13:49" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="伟大天空瑞气祥云" />
+   <attribute name="userId" value="1959594931" />
+   <attribute name="statusId" value="3802154689384810" />
+   <attribute name="image" value="http://tp4.sinaimg.cn/1959594931/50/0/1" />
+   <attribute name="statusText" value="//@王雷军一级营养师:这哪里是丢失？难道是被人家拣去不成？我才不相信没人能管得住这事！坐等。//@任志强: 难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-23 12:36" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="南南珍珠" />
+   <attribute name="userId" value="3409993552" />
+   <attribute name="statusId" value="3801374997631246" />
+   <attribute name="image" value="http://tp1.sinaimg.cn/3409993552/50/5662558773/0" />
+   <attribute name="statusText" value="回复@为你丧失心灵:首先，建议你不要用老百姓这个词，有先入为主的意味。其次，这些公司存款在银行，或是为博高利率，或是为贷到本来不符合放贷条件的款。顺利的时候各位发财，出现问题银行处置质押的、担保的存款，协议另一方本来应愿赌服输，偏偏又咽不下，想发动人们同情弱者的心态讹诈银行。大家别" />
+   <attribute name="createAt" value="2015-01-21 08:58" />
+   <branch>
+    <attribute name="userName" value="南南珍珠" />
+    <attribute name="userId" value="3409993552" />
+    <attribute name="statusId" value="3801776568270914" />
+    <attribute name="image" value="http://tp1.sinaimg.cn/3409993552/50/5662558773/0" />
+    <attribute name="statusText" value="回复@为你丧失心灵 的赞:谢谢" />
+    <attribute name="createAt" value="2015-01-22 11:33" />
+    <branch>
+     <attribute name="userName" value="南南珍珠" />
+     <attribute name="userId" value="3409993552" />
+     <attribute name="statusId" value="3801782356440684" />
+     <attribute name="image" value="http://tp1.sinaimg.cn/3409993552/50/5662558773/0" />
+     <attribute name="statusText" value="回复@江哥1979-蒲子里的三流子:所以银行也是有责任的。//@江哥1979-蒲子里的三流子:你是明白人。而且很多都是有抽屉协议的。//@南南珍珠:回复@为你丧失心灵 的赞:谢谢" />
+     <attribute name="createAt" value="2015-01-22 11:56" />
+    </branch>
+   </branch>
+   <branch>
+    <attribute name="userName" value="南南珍珠" />
+    <attribute name="userId" value="3409993552" />
+    <attribute name="statusId" value="3801776509370143" />
+    <attribute name="image" value="http://tp1.sinaimg.cn/3409993552/50/5662558773/0" />
+    <attribute name="statusText" value="//@南南珍珠:回复@为你丧失心灵:这些公司存款在银行，或是为博高利率，或是为贷到本来不符合放贷条件的款。顺利的时候各位发财，出现问题银行处置质押的、担保的存款，协议另一方本来应愿赌服输，偏偏又咽不下，想发动人们同情弱者的心态讹诈银行。大家别" />
+    <attribute name="createAt" value="2015-01-22 11:33" />
+   </branch>
+  </branch>
+  <branch>
+   <attribute name="userName" value="李云春v" />
+   <attribute name="userId" value="1598463053" />
+   <attribute name="statusId" value="3801376775424220" />
+   <attribute name="image" value="http://tp2.sinaimg.cn/1598463053/50/40075398572/1" />
+   <attribute name="statusText" value="//@任志强: 难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 09:05" />
+   <branch>
+    <attribute name="userName" value="舆论小哥" />
+    <attribute name="userId" value="1247927853" />
+    <attribute name="statusId" value="3801377840901709" />
+    <attribute name="image" value="http://tp2.sinaimg.cn/1247927853/50/5597631862/1" />
+    <attribute name="statusText" value="法律只为银行管事当ATM机多吐出钱时，你会见到法律。//@李云春v://@任志强: 难道法律管不了银行？" />
+    <attribute name="createAt" value="2015-01-21 09:09" />
+   </branch>
+  </branch>
+  <branch>
+   <attribute name="userName" value="幸福的CaiWY" />
+   <attribute name="userId" value="2301410183" />
+   <attribute name="statusId" value="3801348133054158" />
+   <attribute name="image" value="http://tp4.sinaimg.cn/2301410183/50/5648092500/0" />
+   <attribute name="statusText" value="任宰 //@袁裕来律师:恐怖。//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 07:11" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="Rico-so" />
+   <attribute name="userId" value="1850760227" />
+   <attribute name="statusId" value="3801374280108697" />
+   <attribute name="image" value="http://tp4.sinaimg.cn/1850760227/50/1299482657/1" />
+   <attribute name="statusText" value="够呛。//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 08:55" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="喜欢农家小炒肉" />
+   <attribute name="userId" value="1403589241" />
+   <attribute name="statusId" value="3801365970869733" />
+   <attribute name="image" value="http://tp2.sinaimg.cn/1403589241/50/5666162527/1" />
+   <attribute name="statusText" value="难吧！米国的米联储，总统也没辙//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 08:22" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="独角戏红" />
+   <attribute name="userId" value="2517804677" />
+   <attribute name="statusId" value="3801372330116700" />
+   <attribute name="image" value="http://tp2.sinaimg.cn/2517804677/50/5622859553/0" />
+   <attribute name="statusText" value="为什么就是不制裁银行的，就这样不了了之，//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 08:47" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="莫殇唯" />
+   <attribute name="userId" value="1740680042" />
+   <attribute name="statusId" value="3801490039188477" />
+   <attribute name="image" value="http://tp3.sinaimg.cn/1740680042/50/40070071823/0" />
+   <attribute name="statusText" value="如果法律管的了，钱还能不翼而飞吗？受伤的还是储户！理财机构不信任，银行也不能信任，那就花掉！为中国的GDP做贡献。 //@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 16:35" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="zhwhyyzbj" />
+   <attribute name="userId" value="1211145513" />
+   <attribute name="statusId" value="3801397038183867" />
+   <attribute name="image" value="http://tp2.sinaimg.cn/1211145513/50/0/1" />
+   <attribute name="statusText" value="中国那些法学家呢，评论一下，这个事情，怎么处理 //@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 10:25" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="亦轩ZXC" />
+   <attribute name="userId" value="3006744013" />
+   <attribute name="statusId" value="3801415472862327" />
+   <attribute name="image" value="http://tp2.sinaimg.cn/3006744013/50/5716695981/1" />
+   <attribute name="statusText" value="中国法律是肿么了 //@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 11:38" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="秸珂" />
+   <attribute name="userId" value="2640807961" />
+   <attribute name="statusId" value="3801365631554408" />
+   <attribute name="image" value="http://tp2.sinaimg.cn/2640807961/50/5625558437/1" />
+   <attribute name="statusText" value="是时候改变游戏玩法了吧！//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 08:20" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="迦南999" />
+   <attribute name="userId" value="1891385577" />
+   <attribute name="statusId" value="3801384501573213" />
+   <attribute name="image" value="http://tp2.sinaimg.cn/1891385577/50/5715224512/0" />
+   <attribute name="statusText" value="那大家都去银行把钱取了" />
+   <attribute name="createAt" value="2015-01-21 09:35" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="数星星的小女孩很开心" />
+   <attribute name="userId" value="2951552102" />
+   <attribute name="statusId" value="3801365950256679" />
+   <attribute name="image" value="http://tp3.sinaimg.cn/2951552102/50/5713342682/0" />
+   <attribute name="statusText" value="钱不能存银行，难道要放着发霉了" />
+   <attribute name="createAt" value="2015-01-21 08:22" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="alan-出发南半球" />
+   <attribute name="userId" value="1972104523" />
+   <attribute name="statusId" value="3801374355986518" />
+   <attribute name="image" value="http://tp4.sinaimg.cn/1972104523/50/5690026294/1" />
+   <attribute name="statusText" value="//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 08:55" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="昵称别删我" />
+   <attribute name="userId" value="2215037890" />
+   <attribute name="statusId" value="3801941207029408" />
+   <attribute name="image" value="http://tp3.sinaimg.cn/2215037890/50/5604752241/1" />
+   <attribute name="statusText" value="银行就是国家开的 国家会打自己脸吗 //@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-22 22:28" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="乐易博因" />
+   <attribute name="userId" value="3319593672" />
+   <attribute name="statusId" value="3801373097354134" />
+   <attribute name="image" value="http://tp1.sinaimg.cn/3319593672/50/5693003950/1" />
+   <attribute name="statusText" value="//@袁裕来律师:恐怖。//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 08:50" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="李四李" />
+   <attribute name="userId" value="2858717544" />
+   <attribute name="statusId" value="3801409579106881" />
+   <attribute name="image" value="http://tp1.sinaimg.cn/2858717544/50/0/0" />
+   <attribute name="statusText" value="//@任志强: 难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 11:15" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="步锐梧哈特" />
+   <attribute name="userId" value="1879711862" />
+   <attribute name="statusId" value="3801411713959875" />
+   <attribute name="image" value="http://tp3.sinaimg.cn/1879711862/50/0/1" />
+   <attribute name="statusText" value="//@任志强: 难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 11:24" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="同城乐贷" />
+   <attribute name="userId" value="5264376799" />
+   <attribute name="statusId" value="3801389795055355" />
+   <attribute name="image" value="http://tp4.sinaimg.cn/5264376799/50/5710062055/1" />
+   <attribute name="statusText" value="还能继续信任银行吗？" />
+   <attribute name="createAt" value="2015-01-21 09:56" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="一派清波" />
+   <attribute name="userId" value="1710386557" />
+   <attribute name="statusId" value="3801387752206639" />
+   <attribute name="image" value="http://tp2.sinaimg.cn/1710386557/50/1268488046/1" />
+   <attribute name="statusText" value="//@任志强: 难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 09:48" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="娄麦兜的狂想世界" />
+   <attribute name="userId" value="2526345740" />
+   <attribute name="statusId" value="3801347906328178" />
+   <attribute name="image" value="http://tp1.sinaimg.cn/2526345740/50/5615891751/0" />
+   <attribute name="statusText" value="//@范剑平:怪不得贪官几亿现金放家里。 //@李正曦Sissi:太特么吓人了。。。" />
+   <attribute name="createAt" value="2015-01-21 07:10" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="厚土水塘" />
+   <attribute name="userId" value="2365177920" />
+   <attribute name="statusId" value="3801446115458326" />
+   <attribute name="image" value="http://tp1.sinaimg.cn/2365177920/50/0/1" />
+   <attribute name="statusText" value="//@任志强: 难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 13:40" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="长脸驯兽师" />
+   <attribute name="userId" value="2944588055" />
+   <attribute name="statusId" value="3801571462831293" />
+   <attribute name="image" value="http://tp4.sinaimg.cn/2944588055/50/40019794878/1" />
+   <attribute name="statusText" value="还是保险安全是吧～@罹念远远 //@罹念远远:入行先学合规，可不是随便说说而已" />
+   <attribute name="createAt" value="2015-01-21 21:58" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="村口王工头" />
+   <attribute name="userId" value="3943975842" />
+   <attribute name="statusId" value="3801397525427755" />
+   <attribute name="image" value="http://tp3.sinaimg.cn/3943975842/50/5712112113/1" />
+   <attribute name="statusText" value="难怪昨天想买个岛，发现卡上没钱的" />
+   <attribute name="createAt" value="2015-01-21 10:27" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="夔门红叶红" />
+   <attribute name="userId" value="1570624033" />
+   <attribute name="statusId" value="3801369414929082" />
+   <attribute name="image" value="http://tp2.sinaimg.cn/1570624033/50/22843642751/0" />
+   <attribute name="statusText" value="@郭梦墨 //@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 08:35" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="灬ABIL" />
+   <attribute name="userId" value="1881791537" />
+   <attribute name="statusId" value="3801352444724735" />
+   <attribute name="image" value="http://tp2.sinaimg.cn/1881791537/50/5713463947/1" />
+   <attribute name="statusText" value="还敢存嘛" />
+   <attribute name="createAt" value="2015-01-21 07:28" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="紫逸515" />
+   <attribute name="userId" value="3579687947" />
+   <attribute name="statusId" value="3801335675810572" />
+   <attribute name="image" value="http://tp4.sinaimg.cn/3579687947/50/5688544959/0" />
+   <attribute name="statusText" value="//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 06:21" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="xian313" />
+   <attribute name="userId" value="2244298771" />
+   <attribute name="statusId" value="3801359281693111" />
+   <attribute name="image" value="http://tp4.sinaimg.cn/2244298771/50/5707708806/1" />
+   <attribute name="statusText" value="我是流氓我怕谁//@陈光武律师:近期，储户在银行丢钱报道屡见媒体，今日央视又专题报道。银行说业务员个人行为，与银行无关；储户说丢的容易，追回来难；警察说，刑事案件，等破案追脏。专家说银行脱不了干系...依我看丝毫不用担心。只要钱存到了银行，或在柜台交到业务员手中，银行必还！" />
+   <attribute name="createAt" value="2015-01-21 07:55" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="后来的事大家都知道了" />
+   <attribute name="userId" value="1749868691" />
+   <attribute name="statusId" value="3801381175430613" />
+   <attribute name="image" value="http://tp4.sinaimg.cn/1749868691/50/1275447263/1" />
+   <attribute name="statusText" value="卡上只有几十块钱的我轻松飘过 //@袁裕来律师:恐怖。 //@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 09:22" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="florey" />
+   <attribute name="userId" value="1682329234" />
+   <attribute name="statusId" value="3801369896617510" />
+   <attribute name="image" value="http://tp3.sinaimg.cn/1682329234/50/0/1" />
+   <attribute name="statusText" value="//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 08:37" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="选个名字也那么烦" />
+   <attribute name="userId" value="3978826908" />
+   <attribute name="statusId" value="3801355816617951" />
+   <attribute name="image" value="http://tp1.sinaimg.cn/3978826908/50/40051305917/1" />
+   <attribute name="statusText" value="银行系统被黑了吧" />
+   <attribute name="createAt" value="2015-01-21 07:41" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="惠美爱米" />
+   <attribute name="userId" value="1835466393" />
+   <attribute name="statusId" value="3801413827843370" />
+   <attribute name="image" value="http://tp2.sinaimg.cn/1835466393/50/1287646956/0" />
+   <attribute name="statusText" value="//@任志强: 难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 11:32" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="苏富贷" />
+   <attribute name="userId" value="5396364865" />
+   <attribute name="statusId" value="3801378243431825" />
+   <attribute name="image" value="http://tp2.sinaimg.cn/5396364865/50/40072277446/1" />
+   <attribute name="statusText" value="转发微博" />
+   <attribute name="createAt" value="2015-01-21 09:11" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="冰城壹梦" />
+   <attribute name="userId" value="1095968364" />
+   <attribute name="statusId" value="3801366923758375" />
+   <attribute name="image" value="http://tp1.sinaimg.cn/1095968364/50/5633347321/1" />
+   <attribute name="statusText" value="流氓银行啊，估计会越来越流氓的。 //@何时会天明://@荣剑2004:银行内部人把储户的钱偷了，银行说它没责任，这是什么银行?//@袁裕来律师:恐怖。//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 08:26" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="吃在春节" />
+   <attribute name="userId" value="2344799862" />
+   <attribute name="statusId" value="3801753906810352" />
+   <attribute name="image" value="http://tp3.sinaimg.cn/2344799862/50/5710034954/1" />
+   <attribute name="statusText" value="//@袁裕来律师:恐怖。//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-22 10:03" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="吴学谦1979" />
+   <attribute name="userId" value="2344532741" />
+   <attribute name="statusId" value="3801355338355582" />
+   <attribute name="image" value="http://tp2.sinaimg.cn/2344532741/50/5684720944/1" />
+   <attribute name="statusText" value="//@袁裕来律师:恐怖。//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 07:40" />
+   <branch>
+    <attribute name="userName" value="山东东营头条V" />
+    <attribute name="userId" value="1102939912" />
+    <attribute name="statusId" value="3801355938647296" />
+    <attribute name="image" value="http://tp1.sinaimg.cn/1102939912/50/5668679679/1" />
+    <attribute name="statusText" value="//@吴学谦1979://@袁裕来律师:恐怖。//@任志强:难道法律管不了银行？" />
+    <attribute name="createAt" value="2015-01-21 07:42" />
+    <branch>
+     <attribute name="userName" value="只会左转弯" />
+     <attribute name="userId" value="2047547910" />
+     <attribute name="statusId" value="3801356345380662" />
+     <attribute name="image" value="http://tp3.sinaimg.cn/2047547910/50/5706342173/1" />
+     <attribute name="statusText" value="//@山东东营头条V: //@吴学谦1979://@袁裕来律师:恐怖。//@任志强:难道法律管不了银行？" />
+     <attribute name="createAt" value="2015-01-21 07:44" />
+    </branch>
+   </branch>
+   <branch>
+    <attribute name="userName" value="百花妙算" />
+    <attribute name="userId" value="1304923381" />
+    <attribute name="statusId" value="3801361848438901" />
+    <attribute name="image" value="http://tp2.sinaimg.cn/1304923381/50/1264843750/1" />
+    <attribute name="statusText" value="最糟糕的事不过如此了，难道没人管？//@吴学谦1979: //@袁裕来律师:恐怖。//@任志强:难道法律管不了银行？" />
+    <attribute name="createAt" value="2015-01-21 08:05" />
+   </branch>
+  </branch>
+  <branch>
+   <attribute name="userName" value="1冰1草1恋1" />
+   <attribute name="userId" value="2210228534" />
+   <attribute name="statusId" value="3801360376174078" />
+   <attribute name="image" value="http://tp3.sinaimg.cn/2210228534/50/40009299202/1" />
+   <attribute name="statusText" value="//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 08:00" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="duck945" />
+   <attribute name="userId" value="2302428537" />
+   <attribute name="statusId" value="3801383989612515" />
+   <attribute name="image" value="http://tp2.sinaimg.cn/2302428537/50/5608272238/1" />
+   <attribute name="statusText" value="转发微博" />
+   <attribute name="createAt" value="2015-01-21 09:33" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="偶吧200" />
+   <attribute name="userId" value="5487718630" />
+   <attribute name="statusId" value="3801507348612973" />
+   <attribute name="image" value="http://tp3.sinaimg.cn/5487718630/50/5716696320/0" />
+   <attribute name="statusText" value="//@袁裕来律师:恐怖。//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 17:44" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="青飘飘啊" />
+   <attribute name="userId" value="5341231954" />
+   <attribute name="statusId" value="3802136465142135" />
+   <attribute name="image" value="http://tp3.sinaimg.cn/5341231954/50/5709080064/1" />
+   <attribute name="statusText" value="//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-23 11:23" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="健康快乐每一天bj" />
+   <attribute name="userId" value="1430240767" />
+   <attribute name="statusId" value="3801417393877975" />
+   <attribute name="image" value="http://tp4.sinaimg.cn/1430240767/50/5639488107/0" />
+   <attribute name="statusText" value="//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 11:46" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="池中莲花10" />
+   <attribute name="userId" value="5482144522" />
+   <attribute name="statusId" value="3801794298198778" />
+   <attribute name="image" value="http://tp3.sinaimg.cn/5482144522/50/5716395366/0" />
+   <attribute name="statusText" value="//@Akhmatova11: 这究竟怎么回事情? 没救了，这世界。 //@任志强: 难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-22 12:44" />
+   <branch>
+    <attribute name="userName" value="遇见美好Y" />
+    <attribute name="userId" value="5371705662" />
+    <attribute name="statusId" value="3801803655255229" />
+    <attribute name="image" value="http://tp3.sinaimg.cn/5371705662/50/5716706510/0" />
+    <attribute name="statusText" value="//@池中莲花10: //@Akhmatova11: 这究竟怎么回事情? 没救了，这世界。 //@任志强: 难道法律管不了银行？" />
+    <attribute name="createAt" value="2015-01-22 13:21" />
+   </branch>
+  </branch>
+  <branch>
+   <attribute name="userName" value="犀利小波娃" />
+   <attribute name="userId" value="1899223314" />
+   <attribute name="statusId" value="3801348137466754" />
+   <attribute name="image" value="http://tp3.sinaimg.cn/1899223314/50/5691276926/0" />
+   <attribute name="statusText" value="这还用专家说 //@袁裕来律师:恐怖。//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 07:11" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="空了才说" />
+   <attribute name="userId" value="2936569043" />
+   <attribute name="statusId" value="3801429842256168" />
+   <attribute name="image" value="http://tp4.sinaimg.cn/2936569043/50/0/1" />
+   <attribute name="statusText" value="//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 12:36" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="朱田夫" />
+   <attribute name="userId" value="2291349662" />
+   <attribute name="statusId" value="3801379976212403" />
+   <attribute name="image" value="http://tp3.sinaimg.cn/2291349662/50/5650386762/1" />
+   <attribute name="statusText" value="//@大藏布:转发微博" />
+   <attribute name="createAt" value="2015-01-21 09:17" />
+   <branch>
+    <attribute name="userName" value="陈虎微评论" />
+    <attribute name="userId" value="1393779571" />
+    <attribute name="statusId" value="3801381180054561" />
+    <attribute name="image" value="http://tp4.sinaimg.cn/1393779571/50/5680663928/1" />
+    <attribute name="statusText" value="这也太吓人了吧//@朱田夫: //@大藏布:转发微博" />
+    <attribute name="createAt" value="2015-01-21 09:22" />
+   </branch>
+  </branch>
+  <branch>
+   <attribute name="userName" value="法兰克叔叔" />
+   <attribute name="userId" value="1731847393" />
+   <attribute name="statusId" value="3801464033919819" />
+   <attribute name="image" value="http://tp2.sinaimg.cn/1731847393/50/5613652332/1" />
+   <attribute name="statusText" value="中国的银行太牛了!//@何时会天明: //@荣剑2004:银行内部人把储户的钱偷了，银行说它没责任，这是什么银行?//@袁裕来律师:恐怖。//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 14:51" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="温宏建1996" />
+   <attribute name="userId" value="2303531583" />
+   <attribute name="statusId" value="3801412427118709" />
+   <attribute name="image" value="http://tp4.sinaimg.cn/2303531583/50/5696483480/1" />
+   <attribute name="statusText" value="政府部门应该负责" />
+   <attribute name="createAt" value="2015-01-21 11:26" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="日月-木水" />
+   <attribute name="userId" value="2207323774" />
+   <attribute name="statusId" value="3801547173616753" />
+   <attribute name="image" value="http://tp3.sinaimg.cn/2207323774/50/22866616003/1" />
+   <attribute name="statusText" value="这是一个中国历史上最混乱的时代，无法无天 各自为王 另立山头 挑战皇上 民脂民膏 心狠手黑 没有信仰！！" />
+   <attribute name="createAt" value="2015-01-21 20:22" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="智信创富" />
+   <attribute name="userId" value="5348132640" />
+   <attribute name="statusId" value="3801384752850226" />
+   <attribute name="image" value="http://tp1.sinaimg.cn/5348132640/50/40069343170/1" />
+   <attribute name="statusText" value="银行最常见的盗取方式就是内外合作，而且存款丢得容易，被找回可能性很小，好贷网第三方资金托管，避免了平台自融、自用、私设资金池及卷款跑路和诈骗资金的可能。引入第三方权威审计机构审核财务数据，并定期对公众披露风险指标及运营数据，使得出借人及时了解公开透明的风险信息O网页链接" />
+   <attribute name="createAt" value="2015-01-21 09:36" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="William_自由甲" />
+   <attribute name="userId" value="1651795693" />
+   <attribute name="statusId" value="3801352792720909" />
+   <attribute name="image" value="http://tp2.sinaimg.cn/1651795693/50/1298341193/1" />
+   <attribute name="statusText" value="任性//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 07:29" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="向台2014" />
+   <attribute name="userId" value="5344857108" />
+   <attribute name="statusId" value="3801456924772449" />
+   <attribute name="image" value="http://tp1.sinaimg.cn/5344857108/50/5709368030/1" />
+   <attribute name="statusText" value="//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 14:23" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="七水nana" />
+   <attribute name="userId" value="2127354320" />
+   <attribute name="statusId" value="3801445310692999" />
+   <attribute name="image" value="http://tp1.sinaimg.cn/2127354320/50/5670404268/1" />
+   <attribute name="statusText" value="还真是什么都不能信啊，什么都败坏了" />
+   <attribute name="createAt" value="2015-01-21 13:37" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="LZQ会走下去without-soul" />
+   <attribute name="userId" value="2289775591" />
+   <attribute name="statusId" value="3801412381595374" />
+   <attribute name="image" value="http://tp4.sinaimg.cn/2289775591/50/5655044877/1" />
+   <attribute name="statusText" value="强烈要求大家把钱都取出来，银行丢钱还不赔，那存了干嘛？！还不如错自己家里。大家都取钱出来，银行就倒闭了。 //@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 11:26" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="bropiao" />
+   <attribute name="userId" value="1411795292" />
+   <attribute name="statusId" value="3801361000838294" />
+   <attribute name="image" value="http://tp1.sinaimg.cn/1411795292/50/5678767204/1" />
+   <attribute name="statusText" value="这他妈都是什么法律！要不说现在道德败坏呢，遵守道德的连独善其身都不可能！只能是比谁更坏！ //@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 08:02" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="时弘毅" />
+   <attribute name="userId" value="5290558962" />
+   <attribute name="statusId" value="3801740350779142" />
+   <attribute name="image" value="http://tp3.sinaimg.cn/5290558962/50/5713934952/1" />
+   <attribute name="statusText" value="//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-22 09:09" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="阿不Australia" />
+   <attribute name="userId" value="1408403641" />
+   <attribute name="statusId" value="3801356387340258" />
+   <attribute name="image" value="http://tp2.sinaimg.cn/1408403641/50/22855118326/0" />
+   <attribute name="statusText" value="太可怕了，银行也不安全" />
+   <attribute name="createAt" value="2015-01-21 07:44" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="骑龙山居士" />
+   <attribute name="userId" value="5243765486" />
+   <attribute name="statusId" value="3801401492869482" />
+   <attribute name="image" value="http://tp3.sinaimg.cn/5243765486/50/5713607077/1" />
+   <attribute name="statusText" value="存在银行的钱被盗，银行居然可以推卸责任，这有多恐怖！难道国家的法律制度是银行制定的，不维护普通百姓的权益？//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 10:43" />
+  </branch>
+  <branch>
+   <attribute name="userName" value="赞美诗6201" />
+   <attribute name="userId" value="3225879610" />
+   <attribute name="statusId" value="3801330105722873" />
+   <attribute name="image" value="http://tp3.sinaimg.cn/3225879610/50/5701315957/1" />
+   <attribute name="statusText" value="//@腾讯微博颖王:长腿跑了//@议会最大E:太恐怖了//@福山雅致I: //@不羁点灯6:抢劫太难着，干脆直接拿走。 //@袁裕来律师:恐怖。//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-21 05:59" />
+   <branch>
+    <attribute name="userName" value="法严正名" />
+    <attribute name="userId" value="2256280835" />
+    <attribute name="statusId" value="3801331523182438" />
+    <attribute name="image" value="http://tp4.sinaimg.cn/2256280835/50/5716554989/1" />
+    <attribute name="statusText" value="//@赞美诗6201: //@腾讯微博颖王:长腿跑了//@议会最大E:太恐怖了//@福山雅致I: //@不羁点灯6:抢劫太难着，干脆直接拿走。 //@袁裕来律师:恐怖。//@任志强:难道法律管不了银行？" />
+    <attribute name="createAt" value="2015-01-21 06:05" />
+   </branch>
+  </branch>
+  <branch>
+   <attribute name="userName" value="青岛结构胶专卖" />
+   <attribute name="userId" value="2375586457" />
+   <attribute name="statusId" value="3802180643075404" />
+   <attribute name="image" value="http://tp2.sinaimg.cn/2375586457/50/5620788009/0" />
+   <attribute name="statusText" value="//@袁裕来律师: 恐怖。//@任志强:难道法律管不了银行？" />
+   <attribute name="createAt" value="2015-01-23 14:19" />
+  </branch>
+ </branch>
+</tree>
+
